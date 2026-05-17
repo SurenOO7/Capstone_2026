@@ -1,0 +1,92 @@
+\documentclass[12pt,a4paper]{report}
+
+% --- Font & language ---
+\usepackage{fontspec}
+\setmainfont{Sylfaen}[
+  Path=/Users/surenarzumanyan/Library/Fonts/,
+  Extension=.ttf,
+  UprightFont=sylfaen
+]
+\usepackage{polyglossia}
+\setmainlanguage{armenian}
+\setotherlanguage{english}
+% Sylfaen supports Armenian Unicode but polyglossia needs explicit declaration
+\newfontfamily\armenianfont{Sylfaen}[
+  Script=Armenian,
+  Path=/Users/surenarzumanyan/Library/Fonts/,
+  Extension=.ttf,
+  UprightFont=sylfaen
+]
+
+% --- Page geometry ---
+\usepackage[a4paper, left=3cm, right=1cm, top=2.5cm, bottom=2cm]{geometry}
+
+% --- Spacing ---
+\usepackage{setspace}
+\onehalfspacing
+
+% --- Page numbers bottom-right, no header ---
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[R]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% --- Chapter/section titles: UPPERCASE, Bold, 12pt, no trailing period ---
+\usepackage{titlesec}
+\titleformat{\chapter}[block]
+  {\normalfont\fontsize{12}{14}\selectfont\bfseries\MakeUppercase}
+  {\thechapter.}{1em}{}
+\titleformat{\section}[block]
+  {\normalfont\fontsize{12}{14}\selectfont\bfseries}
+  {\thesection.}{1em}{}
+\titlespacing*{\chapter}{0pt}{0pt}{12pt}
+% Each new chapter starts on a new page
+\newcommand{\chapterbreak}{\clearpage}
+
+% --- Bibliography (APA via biblatex) ---
+\usepackage[backend=biber, style=apa, sorting=nyt]{biblatex}
+\addbibresource{references.bib}
+
+% --- Utilities ---
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\hypersetup{hidelinks}
+
+% --- Footnotes ---
+\usepackage{footmisc}
+
+\begin{document}
+
+% Title page (no page number)
+\pagenumbering{gobble}
+\input{chapters/titlepage}
+
+% Table of contents
+\pagenumbering{roman}
+\tableofcontents
+\clearpage
+
+% Main content — Arabic page numbering from Introduction
+\pagenumbering{arabic}
+\input{chapters/introduction}
+\input{chapters/literature}
+\input{chapters/methods}
+\input{chapters/results}
+\input{chapters/conclusions}
+
+% Bibliography
+\clearpage
+\printbibliography[title={ԳՐԱԿԱՆՈՒԹՅԱՆ ՑԱՆԿ}]
+
+% Appendices (uncomment as they are added)
+% \appendix
+% \input{appendices/app_a}
+
+\end{document}

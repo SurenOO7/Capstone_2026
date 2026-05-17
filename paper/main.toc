@@ -1,0 +1,6 @@
+\xpg@aux {}{armenian}
+\contentsline {chapter}{\numberline {\@arabic \c@chapter }ՆԵՐԱԾՈՒԹՅՈՒՆ}{\@arabic \c@page }{chapter.1}%
+\contentsline {chapter}{\numberline {\@arabic \c@chapter }ԳՐԱԿԱՆՈՒԹՅԱՆ ԱԿՆԱՐԿ}{\@arabic \c@page }{chapter.2}%
+\contentsline {chapter}{\numberline {\@arabic \c@chapter }ՀԵՏԱԶՈՏՈՒԹՅԱՆ ՄԵԹՈԴՆԵՐ}{\@arabic \c@page }{chapter.3}%
+\contentsline {chapter}{\numberline {\@arabic \c@chapter }ԱՐԴՅՈՒՆՔՆԵՐԻ ՎԵՐԼՈՒԾՈՒԹՅՈՒՆ ԵՎ ՔՆՆԱՐԿՈՒՄ}{\@arabic \c@page }{chapter.4}%
+\contentsline {chapter}{\numberline {\@arabic \c@chapter }ԵԶՐԱԿԱՑՈՒԹՅՈՒՆՆԵՐ ԵՎ ԱՌԱՋԱՐԿՈՒԹՅՈՒՆՆԵՐ}{\@arabic \c@page }{chapter.5}%
