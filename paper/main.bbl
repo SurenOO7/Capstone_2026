@@ -16,5 +16,2840 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{appleStrides}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cf6b5ffb0dace64495495e85a3031af}{%
+           family={{Apple App Store}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{fullhash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{fullhashraw}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{bibnamehash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{authorbibnamehash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{authornamehash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{authorfullhash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{authorfullhashraw}{2cf6b5ffb0dace64495495e85a3031af}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Strides: Habit Tracker + Goals App}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://apps.apple.com/gb/app/strides-goal-habit-tracker/id672401817
+      \endverb
+      \verb{url}
+      \verb https://apps.apple.com/gb/app/strides-goal-habit-tracker/id672401817
+      \endverb
+    \endentry
+    \entry{beck2001agile}{online}{}{}
+      \name{author}{17}{}{%
+        {{un=0,uniquepart=base,hash=c5dcbe71f60a8d55caa11fe1493614d0}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Kent},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b081a82bcbc247aeb2a2ca9ae72f9566}{%
+           family={Beedle},
+           familyi={B\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3d49db7c8b6de036095a80d96ee1461}{%
+           family={Bennekum},
+           familyi={B\bibinitperiod},
+           given={Arie},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c1e5acec4259bb4c17ca1a00866f32e1}{%
+           family={Cockburn},
+           familyi={C\bibinitperiod},
+           given={Alistair},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc98036d5d01f88b9fdd0b5ff2bc8a2d}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={Ward},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=312ac886938a9b2be4f8eb607567fe4c}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61bdeb09cfbfab0465639014ab3b69be}{%
+           family={Grenning},
+           familyi={G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bae406ad0a87e2f65be045fff38c80ad}{%
+           family={Highsmith},
+           familyi={H\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10383d05f32f2a21518b493a3c546e5c}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3673ee61a410ba25401f2aeaf593748a}{%
+           family={Jeffries},
+           familyi={J\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0dd621758d63b6f0b80fb66db4c3f61e}{%
+           family={Kern},
+           familyi={K\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f520225da3039cab062eedb1e4ddc8d0}{%
+           family={Marick},
+           familyi={M\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f41df64eb0dc4855be70172368604c2}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ec958c6516fd90847b3266799d82f77}{%
+           family={Mellor},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee6f08fcba839e09471a0bc69152b6a5}{%
+           family={Schwaber},
+           familyi={S\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e3f26f6f816a26c6ab36bc7a899bcde}{%
+           family={Sutherland},
+           familyi={S\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb92fc3e1bc50392c9349cc38124af4c}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0e8f5a23c6124fea7c2eb7da286ea5e}
+      \strng{fullhash}{6319ce73345b9ed5d04efa6747044498}
+      \strng{fullhashraw}{6319ce73345b9ed5d04efa6747044498}
+      \strng{bibnamehash}{6319ce73345b9ed5d04efa6747044498}
+      \strng{authorbibnamehash}{6319ce73345b9ed5d04efa6747044498}
+      \strng{authornamehash}{e0e8f5a23c6124fea7c2eb7da286ea5e}
+      \strng{authorfullhash}{6319ce73345b9ed5d04efa6747044498}
+      \strng{authorfullhashraw}{6319ce73345b9ed5d04efa6747044498}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Manifesto for Agile Software Development}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://agilemanifesto.org/
+      \endverb
+      \verb{url}
+      \verb https://agilemanifesto.org/
+      \endverb
+    \endentry
+    \entry{datareportal2026}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=521cd76c97ca2b4cb17c6aa8d1e02001}{%
+           family={{DataReportal}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{fullhash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{fullhashraw}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{bibnamehash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{authorbibnamehash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{authornamehash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{authorfullhash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{authorfullhashraw}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Digital 2026: Global Overview Report}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://datareportal.com/reports/digital-2026-global-overview-report
+      \endverb
+      \verb{url}
+      \verb https://datareportal.com/reports/digital-2026-global-overview-report
+      \endverb
+    \endentry
+    \entry{date2004introduction}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c09e33f0c9dc5770fb91e75cdc21d569}{%
+           family={Date},
+           familyi={D\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{fullhash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{fullhashraw}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{bibnamehash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{authorbibnamehash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{authornamehash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{authorfullhash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{authorfullhashraw}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{8}
+      \field{title}{An Introduction to Database Systems}
+      \field{year}{2004}
+      \field{dateera}{ce}
+    \endentry
+    \entry{deterding2011gamification}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4ad251c02d478d38f2fe79e126ae6bf1}{%
+           family={Deterding},
+           familyi={D\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77b7f2834ada9e806200ca66ed3767a4}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6693a49677bd64d91668dccd98fe0d4e}{%
+           family={Khaled},
+           familyi={K\bibinitperiod},
+           given={Rilla},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8dcd6b16d5cfe0d1191e77e5f709c16}{%
+           family={Nacke},
+           familyi={N\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{fullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{fullhashraw}{5900b306a627b766e3160b1c23b117f2}
+      \strng{bibnamehash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authorbibnamehash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authornamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{authorfullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authorfullhashraw}{5900b306a627b766e3160b1c23b117f2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 15th International Academic MindTrek Conference}
+      \field{title}{From Game Design Elements to Gamefulness: Defining Gamification}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{9\bibrangedash 15}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/2181037.2181040
+      \endverb
+    \endentry
+    \entry{doerr2018measure}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a5193d4e28382fee13c21c33fcd6b71}{%
+           family={Doerr},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Portfolio}%
+      }
+      \strng{namehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{fullhash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{fullhashraw}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{bibnamehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authorbibnamehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authornamehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authorfullhash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authorfullhashraw}{3a5193d4e28382fee13c21c33fcd6b71}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{todoistFeatures}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c7c2713cdf767ff9544e4634619197bc}{%
+           family={{Doist}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{fullhash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{fullhashraw}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{bibnamehash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{authorbibnamehash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{authornamehash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{authorfullhash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{authorfullhashraw}{c7c2713cdf767ff9544e4634619197bc}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Todoist Features}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.todoist.com/features
+      \endverb
+      \verb{url}
+      \verb https://www.todoist.com/features
+      \endverb
+    \endentry
+    \entry{doran1981smart}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e0efc80c8d3001b6f0480e5b4c7c693f}{%
+           family={Doran},
+           familyi={D\bibinitperiod},
+           given={George\bibnamedelima T.},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{fullhash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{fullhashraw}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{bibnamehash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{authorbibnamehash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{authornamehash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{authorfullhash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{authorfullhashraw}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Management Review}
+      \field{number}{11}
+      \field{title}{There's a S.M.A.R.T. Way to Write Management's Goals and Objectives}
+      \field{volume}{70}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{pages}{35\bibrangedash 36}
+      \range{pages}{2}
+    \endentry
+    \entry{goalsOnTrackFeatures}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=86bf238a2a15622109953a9583a45179}{%
+           family={{Goals on Track}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{86bf238a2a15622109953a9583a45179}
+      \strng{fullhash}{86bf238a2a15622109953a9583a45179}
+      \strng{fullhashraw}{86bf238a2a15622109953a9583a45179}
+      \strng{bibnamehash}{86bf238a2a15622109953a9583a45179}
+      \strng{authorbibnamehash}{86bf238a2a15622109953a9583a45179}
+      \strng{authornamehash}{86bf238a2a15622109953a9583a45179}
+      \strng{authorfullhash}{86bf238a2a15622109953a9583a45179}
+      \strng{authorfullhashraw}{86bf238a2a15622109953a9583a45179}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Goal Software for High Achievers: Features}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.goalsontrack.com/home/features
+      \endverb
+      \verb{url}
+      \verb https://www.goalsontrack.com/home/features
+      \endverb
+    \endentry
+    \entry{habiticaAppStore}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42b6268153955a411aca581b6d5d502d}{%
+           family={{HabitRPG, Inc.}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{42b6268153955a411aca581b6d5d502d}
+      \strng{fullhash}{42b6268153955a411aca581b6d5d502d}
+      \strng{fullhashraw}{42b6268153955a411aca581b6d5d502d}
+      \strng{bibnamehash}{42b6268153955a411aca581b6d5d502d}
+      \strng{authorbibnamehash}{42b6268153955a411aca581b6d5d502d}
+      \strng{authornamehash}{42b6268153955a411aca581b6d5d502d}
+      \strng{authorfullhash}{42b6268153955a411aca581b6d5d502d}
+      \strng{authorfullhashraw}{42b6268153955a411aca581b6d5d502d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Habitica: Gamified Taskmanager App}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://apps.apple.com/us/app/habitica/id994882113
+      \endverb
+      \verb{url}
+      \verb https://apps.apple.com/us/app/habitica/id994882113
+      \endverb
+    \endentry
+    \entry{locke2002building}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3a235aa304a8139ad5907617ac24fb76}{%
+           family={Locke},
+           familyi={L\bibinitperiod},
+           given={Edwin\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=874820129bd8a88281624b367a49a1bc}{%
+           family={Latham},
+           familyi={L\bibinitperiod},
+           given={Gary\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{fullhash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{fullhashraw}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{bibnamehash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{authorbibnamehash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{authornamehash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{authorfullhash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{authorfullhashraw}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Psychologist}
+      \field{number}{9}
+      \field{title}{Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey}
+      \field{volume}{57}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{705\bibrangedash 717}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1037/0003-066X.57.9.705
+      \endverb
+    \endentry
+    \entry{mazzotti2024goalsetting}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=ed77288d759868f2f9544caceb0e1cf6}{%
+           family={Mazzotti},
+           familyi={M\bibinitperiod},
+           given={Valerie\bibnamedelima L.},
+           giveni={V\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aed8fa46019e05936fb5524940e96c83}{%
+           family={Shogren},
+           familyi={S\bibinitperiod},
+           given={Karrie\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98a642eeb71ad20d3dbff86dba3c5749}{%
+           family={Stewart-Ginsburg},
+           familyi={S\bibinithyphendelim G\bibinitperiod},
+           given={Jared\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32229b85ec4d8dd452638faed1086122}{%
+           family={Kwiatek},
+           familyi={K\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77fa230f0c7d405f8bb92155cd9e0f6d}{%
+           family={Hagiwara},
+           familyi={H\bibinitperiod},
+           given={Mayumi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2987a40efd665e2a5083187d507acbc7}{%
+           family={Wysenski},
+           familyi={W\bibinitperiod},
+           given={Danielle\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b5913b7e86e8ed4a931b10c4634e468}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d600b889e34b532e235aaf7fb68f9171}
+      \strng{fullhash}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \strng{fullhashraw}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \strng{bibnamehash}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \strng{authorbibnamehash}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \strng{authornamehash}{d600b889e34b532e235aaf7fb68f9171}
+      \strng{authorfullhash}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \strng{authorfullhashraw}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Career Development and Transition for Exceptional Individuals}
+      \field{number}{1}
+      \field{title}{The Goal Setting Challenge App: Promoting Self-Determination Through Technology}
+      \field{volume}{47}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{50\bibrangedash 60}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1177/07419325221147698
+      \endverb
+    \endentry
+    \entry{reactDocsHooks}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c56f762d9ebe73063cd2d157e97351f}{%
+           family={{Meta Open Source}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{fullhash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{fullhashraw}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{bibnamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorbibnamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authornamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorfullhash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorfullhashraw}{6c56f762d9ebe73063cd2d157e97351f}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Built-in React Hooks}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://react.dev/reference/react/hooks
+      \endverb
+      \verb{url}
+      \verb https://react.dev/reference/react/hooks
+      \endverb
+    \endentry
+    \entry{reactDocsState}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c56f762d9ebe73063cd2d157e97351f}{%
+           family={{Meta Open Source}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{fullhash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{fullhashraw}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{bibnamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorbibnamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authornamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorfullhash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorfullhashraw}{6c56f762d9ebe73063cd2d157e97351f}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{State: A Component's Memory}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://react.dev/learn/state-a-components-memory
+      \endverb
+      \verb{url}
+      \verb https://react.dev/learn/state-a-components-memory
+      \endverb
+    \endentry
+    \entry{bctEngagement2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f457456d1c659ff20a8d3e7a89faa19d}{%
+           family={Milne-Ives},
+           familyi={M\bibinithyphendelim I\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb745331e088d986c545d76e56bb29b6}{%
+           family={Homer},
+           familyi={H\bibinitperiod},
+           given={Sophie\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22bd31ea33648fb2d600e4552d8289f5}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Jackie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87be23f58b6577dc3a3f4095740058f2}{%
+           family={Meinert},
+           familyi={M\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{77eede739ba1f1c6752bfd1cdf331052}
+      \strng{fullhash}{7a2308bfe8b8f4727d5e84718934dbec}
+      \strng{fullhashraw}{7a2308bfe8b8f4727d5e84718934dbec}
+      \strng{bibnamehash}{7a2308bfe8b8f4727d5e84718934dbec}
+      \strng{authorbibnamehash}{7a2308bfe8b8f4727d5e84718934dbec}
+      \strng{authornamehash}{77eede739ba1f1c6752bfd1cdf331052}
+      \strng{authorfullhash}{7a2308bfe8b8f4727d5e84718934dbec}
+      \strng{authorfullhashraw}{7a2308bfe8b8f4727d5e84718934dbec}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{title}{Potential Associations Between Behavior Change Techniques and Engagement With Mobile Health Apps: A Systematic Review}
+      \field{volume}{14}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{1227443}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2023.1227443
+      \endverb
+    \endentry
+    \entry{nielsen2012usability}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhashraw}{753054f71283d85f82cda8e35daf6bac}
+      \strng{bibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorbibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authornamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhashraw}{753054f71283d85f82cda8e35daf6bac}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Usability 101: Introduction to Usability}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nngroup.com/articles/usability-101-introduction-to-usability/
+      \endverb
+      \verb{url}
+      \verb https://www.nngroup.com/articles/usability-101-introduction-to-usability/
+      \endverb
+    \endentry
+    \entry{niven2016objectives}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6d9dcd58d91d346aee724852821d45e}{%
+           family={Niven},
+           familyi={N\bibinitperiod},
+           given={Paul\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0772c8348a104a19518b47ac4ea8034d}{%
+           family={Lamorte},
+           familyi={L\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{fullhash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{fullhashraw}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{bibnamehash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{authorbibnamehash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{authornamehash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{authorfullhash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{authorfullhashraw}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Objectives and Key Results: Driving Focus, Alignment, and Engagement with OKRs}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{norman2013design}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=23f12bb124db5cb91003802eaee52457}{%
+           family={Norman},
+           familyi={N\bibinitperiod},
+           given={Don},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{23f12bb124db5cb91003802eaee52457}
+      \strng{fullhash}{23f12bb124db5cb91003802eaee52457}
+      \strng{fullhashraw}{23f12bb124db5cb91003802eaee52457}
+      \strng{bibnamehash}{23f12bb124db5cb91003802eaee52457}
+      \strng{authorbibnamehash}{23f12bb124db5cb91003802eaee52457}
+      \strng{authornamehash}{23f12bb124db5cb91003802eaee52457}
+      \strng{authorfullhash}{23f12bb124db5cb91003802eaee52457}
+      \strng{authorfullhashraw}{23f12bb124db5cb91003802eaee52457}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Revised and expanded}
+      \field{title}{The Design of Everyday Things}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{pew2024screens}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83778ea1c38ca19c82fc35bb68b48c1b}{%
+           family={{Pew Research Center}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{fullhash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{fullhashraw}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{bibnamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorbibnamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authornamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorfullhash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorfullhashraw}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{3}
+      \field{title}{How Teens and Parents Approach Screen Time}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/
+      \endverb
+      \verb{url}
+      \verb https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/
+      \endverb
+    \endentry
+    \entry{postgresDocsConstraints}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36423acfb135ffe286ea438eafcb0bc6}{%
+           family={{PostgreSQL Global Development Group}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{fullhash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{fullhashraw}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{bibnamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorbibnamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authornamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorfullhash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorfullhashraw}{36423acfb135ffe286ea438eafcb0bc6}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PostgreSQL Documentation: Constraints}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.postgresql.org/docs/current/ddl-constraints.html
+      \endverb
+      \verb{url}
+      \verb https://www.postgresql.org/docs/current/ddl-constraints.html
+      \endverb
+    \endentry
+    \entry{postgresDocsIndexes}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36423acfb135ffe286ea438eafcb0bc6}{%
+           family={{PostgreSQL Global Development Group}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{fullhash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{fullhashraw}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{bibnamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorbibnamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authornamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorfullhash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorfullhashraw}{36423acfb135ffe286ea438eafcb0bc6}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PostgreSQL Documentation: Indexes}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.postgresql.org/docs/current/indexes.html
+      \endverb
+      \verb{url}
+      \verb https://www.postgresql.org/docs/current/indexes.html
+      \endverb
+    \endentry
+    \entry{prismaDocsRelations}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee10f79aa18f7cf1c69142450a809181}{%
+           family={{Prisma}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{fullhash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{fullhashraw}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{bibnamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorbibnamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authornamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorfullhash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorfullhashraw}{ee10f79aa18f7cf1c69142450a809181}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prisma Documentation: Relations}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.prisma.io/docs/orm/prisma-schema/data-model/relations
+      \endverb
+      \verb{url}
+      \verb https://www.prisma.io/docs/orm/prisma-schema/data-model/relations
+      \endverb
+    \endentry
+    \entry{prismaDocsSchema}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee10f79aa18f7cf1c69142450a809181}{%
+           family={{Prisma}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{fullhash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{fullhashraw}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{bibnamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorbibnamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authornamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorfullhash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorfullhashraw}{ee10f79aa18f7cf1c69142450a809181}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prisma Schema Overview}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.prisma.io/docs/orm/prisma-schema/overview
+      \endverb
+      \verb{url}
+      \verb https://www.prisma.io/docs/orm/prisma-schema/overview
+      \endverb
+    \endentry
+    \entry{walkingGoals2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f82c5c584b7adaebae3d71f8def150e4}{%
+           family={Rei},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65a6e3c3d375e733e650e4a6aedae125}{%
+           family={Clavel},
+           familyi={C\bibinitperiod},
+           given={Céline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7fa5113aae0877ea4ca12fc5f22ae92}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Jean-Claude},
+           giveni={J\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1714515fbfa1f4d6c7ae03ec162fc531}{%
+           family={Ravenet},
+           familyi={R\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{703a7d2a3db33ff5e1e2d6c00f2fee37}
+      \strng{fullhash}{2b6d4c1fe721fa432e740b7f906ee285}
+      \strng{fullhashraw}{2b6d4c1fe721fa432e740b7f906ee285}
+      \strng{bibnamehash}{2b6d4c1fe721fa432e740b7f906ee285}
+      \strng{authorbibnamehash}{2b6d4c1fe721fa432e740b7f906ee285}
+      \strng{authornamehash}{703a7d2a3db33ff5e1e2d6c00f2fee37}
+      \strng{authorfullhash}{2b6d4c1fe721fa432e740b7f906ee285}
+      \strng{authorfullhashraw}{2b6d4c1fe721fa432e740b7f906ee285}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Smart Health}
+      \field{title}{Adapting Goals and Motivational Messages on Smartphones for Motivation to Walk}
+      \field{volume}{32}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{100482}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.smhl.2024.100482
+      \endverb
+    \endentry
+    \entry{sailer2017gamification}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d8d811af5b74abad8cd6b169ab55b1dd}{%
+           family={Sailer},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=381924d179b9200f612f08fb65cddb7e}{%
+           family={Hense},
+           familyi={H\bibinitperiod},
+           given={Jan\bibnamedelima Ulrich},
+           giveni={J\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9859017f8d4477c2c30378a01e7cd3e5}{%
+           family={Mayr},
+           familyi={M\bibinitperiod},
+           given={Sarah\bibnamedelima Katharina},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce368859b4c0d12966ee45452f380492}{%
+           family={Mandl},
+           familyi={M\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{588d2a7e9ab517ef56b7211a0060a2d1}
+      \strng{fullhash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{fullhashraw}{469f107dea3e6277aa1ca700d94af680}
+      \strng{bibnamehash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{authorbibnamehash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{authornamehash}{588d2a7e9ab517ef56b7211a0060a2d1}
+      \strng{authorfullhash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{authorfullhashraw}{469f107dea3e6277aa1ca700d94af680}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers in Human Behavior}
+      \field{title}{How Gamification Motivates: An Experimental Study of the Effects of Specific Game Design Elements on Psychological Need Satisfaction}
+      \field{volume}{69}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{371\bibrangedash 380}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.chb.2016.12.033
+      \endverb
+    \endentry
+    \entry{sensortower2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=915cb50113d355eaa05389da3a07dbcc}{%
+           family={{Sensor Tower}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{fullhash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{fullhashraw}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{bibnamehash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{authorbibnamehash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{authornamehash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{authorfullhash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{authorfullhashraw}{915cb50113d355eaa05389da3a07dbcc}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{State of Mobile 2025}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sensortower.com/state-of-mobile-2025
+      \endverb
+      \verb{url}
+      \verb https://sensortower.com/state-of-mobile-2025
+      \endverb
+    \endentry
+    \entry{stridesOfficial}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fefc3ece509549d4dccfeee24759e8fb}{%
+           family={{Strides}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{fullhash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{fullhashraw}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{bibnamehash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{authorbibnamehash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{authornamehash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{authorfullhash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{authorfullhashraw}{fefc3ece509549d4dccfeee24759e8fb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Strides: Goal and Habit Tracker}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.stridesapp.com/
+      \endverb
+      \verb{url}
+      \verb https://www.stridesapp.com/
+      \endverb
+    \endentry
+    \entry{nextDocsAppGlossary}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc173d57136dbe619cbccee88ee6421c}{%
+           family={{Vercel}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{bibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorbibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authornamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Next.js App Router Glossary}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nextjs.org/docs/app/glossary
+      \endverb
+      \verb{url}
+      \verb https://nextjs.org/docs/app/glossary
+      \endverb
+    \endentry
+    \entry{nextDocsRendering}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc173d57136dbe619cbccee88ee6421c}{%
+           family={{Vercel}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{bibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorbibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authornamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Next.js Rendering}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nextjs.org/docs/15/pages/building-your-application/rendering
+      \endverb
+      \verb{url}
+      \verb https://nextjs.org/docs/15/pages/building-your-application/rendering
+      \endverb
+    \endentry
+    \entry{w3cWcag22News}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdea812935506778c291249971f80655}{%
+           family={{World Wide Web Consortium}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdea812935506778c291249971f80655}
+      \strng{fullhash}{bdea812935506778c291249971f80655}
+      \strng{fullhashraw}{bdea812935506778c291249971f80655}
+      \strng{bibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authorbibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authornamehash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhashraw}{bdea812935506778c291249971f80655}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{month}{10}
+      \field{title}{WCAG 2.2 is a W3C Recommendation Web Standard}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/WAI/news/2023-10-05/wcag22rec/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/WAI/news/2023-10-05/wcag22rec/
+      \endverb
+    \endentry
+    \entry{w3cWcag22}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdea812935506778c291249971f80655}{%
+           family={{World Wide Web Consortium}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdea812935506778c291249971f80655}
+      \strng{fullhash}{bdea812935506778c291249971f80655}
+      \strng{fullhashraw}{bdea812935506778c291249971f80655}
+      \strng{bibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authorbibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authornamehash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhashraw}{bdea812935506778c291249971f80655}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{12}
+      \field{title}{Web Content Accessibility Guidelines (WCAG) 2.2}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/TR/wcag/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/TR/wcag/
+      \endverb
+    \endentry
+    \entry{wang2022gamification}{article}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=f73249864b059f8b1a57bf549084a1c0}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Linqi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91051465490a070eabf137e35bc47e43}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Hongyu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f9f86013961eb698eb45def01963ac7}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Meidi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cd1c8ced5b0abf7a02cde2742b6dfd6}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Yuanyuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f3bb1d3c7fa2a05241e353723deaf63}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a486b155f20cd9b6cb6e391495d5995c}{%
+           family={Pang},
+           familyi={P\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c10b16fb430b92a28a9edb35eacf870}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Tianzhuo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eca4c9579a073ab905b656ca1df930ba}{%
+           family={Lian},
+           familyi={L\bibinitperiod},
+           given={Xiaoqian},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93b8b2ff330ec500f4a619792d97f706}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Tianyue},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecfeff137411d8e887f57d3131dcbd11}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xige},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89b23cce0bb40099f7b69f6577f665fe}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e6a222c0db589082fd95a02473eac60f}
+      \strng{fullhash}{984f686029318db97e98089db3fb50e2}
+      \strng{fullhashraw}{984f686029318db97e98089db3fb50e2}
+      \strng{bibnamehash}{984f686029318db97e98089db3fb50e2}
+      \strng{authorbibnamehash}{984f686029318db97e98089db3fb50e2}
+      \strng{authornamehash}{e6a222c0db589082fd95a02473eac60f}
+      \strng{authorfullhash}{984f686029318db97e98089db3fb50e2}
+      \strng{authorfullhashraw}{984f686029318db97e98089db3fb50e2}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JMIR mHealth and uHealth}
+      \field{number}{2}
+      \field{title}{The Effects of mHealth-Based Gamification Interventions on Participation in Physical Activity: Systematic Review}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{e27794}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/27794
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{appleStrides}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cf6b5ffb0dace64495495e85a3031af}{%
+           family={{Apple App Store}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{fullhash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{fullhashraw}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{bibnamehash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{authorbibnamehash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{authornamehash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{authorfullhash}{2cf6b5ffb0dace64495495e85a3031af}
+      \strng{authorfullhashraw}{2cf6b5ffb0dace64495495e85a3031af}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Strides: Habit Tracker + Goals App}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://apps.apple.com/gb/app/strides-goal-habit-tracker/id672401817
+      \endverb
+      \verb{url}
+      \verb https://apps.apple.com/gb/app/strides-goal-habit-tracker/id672401817
+      \endverb
+    \endentry
+    \entry{beck2001agile}{online}{}{}
+      \name{author}{17}{}{%
+        {{un=0,uniquepart=base,hash=c5dcbe71f60a8d55caa11fe1493614d0}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Kent},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b081a82bcbc247aeb2a2ca9ae72f9566}{%
+           family={Beedle},
+           familyi={B\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3d49db7c8b6de036095a80d96ee1461}{%
+           family={Bennekum},
+           familyi={B\bibinitperiod},
+           given={Arie},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c1e5acec4259bb4c17ca1a00866f32e1}{%
+           family={Cockburn},
+           familyi={C\bibinitperiod},
+           given={Alistair},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc98036d5d01f88b9fdd0b5ff2bc8a2d}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={Ward},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=312ac886938a9b2be4f8eb607567fe4c}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61bdeb09cfbfab0465639014ab3b69be}{%
+           family={Grenning},
+           familyi={G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bae406ad0a87e2f65be045fff38c80ad}{%
+           family={Highsmith},
+           familyi={H\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10383d05f32f2a21518b493a3c546e5c}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3673ee61a410ba25401f2aeaf593748a}{%
+           family={Jeffries},
+           familyi={J\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0dd621758d63b6f0b80fb66db4c3f61e}{%
+           family={Kern},
+           familyi={K\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f520225da3039cab062eedb1e4ddc8d0}{%
+           family={Marick},
+           familyi={M\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f41df64eb0dc4855be70172368604c2}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ec958c6516fd90847b3266799d82f77}{%
+           family={Mellor},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee6f08fcba839e09471a0bc69152b6a5}{%
+           family={Schwaber},
+           familyi={S\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e3f26f6f816a26c6ab36bc7a899bcde}{%
+           family={Sutherland},
+           familyi={S\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb92fc3e1bc50392c9349cc38124af4c}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0e8f5a23c6124fea7c2eb7da286ea5e}
+      \strng{fullhash}{6319ce73345b9ed5d04efa6747044498}
+      \strng{fullhashraw}{6319ce73345b9ed5d04efa6747044498}
+      \strng{bibnamehash}{6319ce73345b9ed5d04efa6747044498}
+      \strng{authorbibnamehash}{6319ce73345b9ed5d04efa6747044498}
+      \strng{authornamehash}{e0e8f5a23c6124fea7c2eb7da286ea5e}
+      \strng{authorfullhash}{6319ce73345b9ed5d04efa6747044498}
+      \strng{authorfullhashraw}{6319ce73345b9ed5d04efa6747044498}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Manifesto for Agile Software Development}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://agilemanifesto.org/
+      \endverb
+      \verb{url}
+      \verb https://agilemanifesto.org/
+      \endverb
+    \endentry
+    \entry{datareportal2026}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=521cd76c97ca2b4cb17c6aa8d1e02001}{%
+           family={{DataReportal}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{fullhash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{fullhashraw}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{bibnamehash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{authorbibnamehash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{authornamehash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{authorfullhash}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \strng{authorfullhashraw}{521cd76c97ca2b4cb17c6aa8d1e02001}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Digital 2026: Global Overview Report}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://datareportal.com/reports/digital-2026-global-overview-report
+      \endverb
+      \verb{url}
+      \verb https://datareportal.com/reports/digital-2026-global-overview-report
+      \endverb
+    \endentry
+    \entry{date2004introduction}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c09e33f0c9dc5770fb91e75cdc21d569}{%
+           family={Date},
+           familyi={D\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{fullhash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{fullhashraw}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{bibnamehash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{authorbibnamehash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{authornamehash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{authorfullhash}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \strng{authorfullhashraw}{c09e33f0c9dc5770fb91e75cdc21d569}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{8}
+      \field{title}{An Introduction to Database Systems}
+      \field{year}{2004}
+      \field{dateera}{ce}
+    \endentry
+    \entry{deterding2011gamification}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4ad251c02d478d38f2fe79e126ae6bf1}{%
+           family={Deterding},
+           familyi={D\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77b7f2834ada9e806200ca66ed3767a4}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6693a49677bd64d91668dccd98fe0d4e}{%
+           family={Khaled},
+           familyi={K\bibinitperiod},
+           given={Rilla},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8dcd6b16d5cfe0d1191e77e5f709c16}{%
+           family={Nacke},
+           familyi={N\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{fullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{fullhashraw}{5900b306a627b766e3160b1c23b117f2}
+      \strng{bibnamehash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authorbibnamehash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authornamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{authorfullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authorfullhashraw}{5900b306a627b766e3160b1c23b117f2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 15th International Academic MindTrek Conference}
+      \field{title}{From Game Design Elements to Gamefulness: Defining Gamification}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{9\bibrangedash 15}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/2181037.2181040
+      \endverb
+    \endentry
+    \entry{doerr2018measure}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a5193d4e28382fee13c21c33fcd6b71}{%
+           family={Doerr},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Portfolio}%
+      }
+      \strng{namehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{fullhash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{fullhashraw}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{bibnamehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authorbibnamehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authornamehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authorfullhash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authorfullhashraw}{3a5193d4e28382fee13c21c33fcd6b71}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{todoistFeatures}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c7c2713cdf767ff9544e4634619197bc}{%
+           family={{Doist}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{fullhash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{fullhashraw}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{bibnamehash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{authorbibnamehash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{authornamehash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{authorfullhash}{c7c2713cdf767ff9544e4634619197bc}
+      \strng{authorfullhashraw}{c7c2713cdf767ff9544e4634619197bc}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Todoist Features}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.todoist.com/features
+      \endverb
+      \verb{url}
+      \verb https://www.todoist.com/features
+      \endverb
+    \endentry
+    \entry{doran1981smart}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e0efc80c8d3001b6f0480e5b4c7c693f}{%
+           family={Doran},
+           familyi={D\bibinitperiod},
+           given={George\bibnamedelima T.},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{fullhash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{fullhashraw}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{bibnamehash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{authorbibnamehash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{authornamehash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{authorfullhash}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \strng{authorfullhashraw}{e0efc80c8d3001b6f0480e5b4c7c693f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Management Review}
+      \field{number}{11}
+      \field{title}{There's a S.M.A.R.T. Way to Write Management's Goals and Objectives}
+      \field{volume}{70}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{pages}{35\bibrangedash 36}
+      \range{pages}{2}
+    \endentry
+    \entry{goalsOnTrackFeatures}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=86bf238a2a15622109953a9583a45179}{%
+           family={{Goals on Track}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{86bf238a2a15622109953a9583a45179}
+      \strng{fullhash}{86bf238a2a15622109953a9583a45179}
+      \strng{fullhashraw}{86bf238a2a15622109953a9583a45179}
+      \strng{bibnamehash}{86bf238a2a15622109953a9583a45179}
+      \strng{authorbibnamehash}{86bf238a2a15622109953a9583a45179}
+      \strng{authornamehash}{86bf238a2a15622109953a9583a45179}
+      \strng{authorfullhash}{86bf238a2a15622109953a9583a45179}
+      \strng{authorfullhashraw}{86bf238a2a15622109953a9583a45179}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Goal Software for High Achievers: Features}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.goalsontrack.com/home/features
+      \endverb
+      \verb{url}
+      \verb https://www.goalsontrack.com/home/features
+      \endverb
+    \endentry
+    \entry{habiticaAppStore}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42b6268153955a411aca581b6d5d502d}{%
+           family={{HabitRPG, Inc.}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{42b6268153955a411aca581b6d5d502d}
+      \strng{fullhash}{42b6268153955a411aca581b6d5d502d}
+      \strng{fullhashraw}{42b6268153955a411aca581b6d5d502d}
+      \strng{bibnamehash}{42b6268153955a411aca581b6d5d502d}
+      \strng{authorbibnamehash}{42b6268153955a411aca581b6d5d502d}
+      \strng{authornamehash}{42b6268153955a411aca581b6d5d502d}
+      \strng{authorfullhash}{42b6268153955a411aca581b6d5d502d}
+      \strng{authorfullhashraw}{42b6268153955a411aca581b6d5d502d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Habitica: Gamified Taskmanager App}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://apps.apple.com/us/app/habitica/id994882113
+      \endverb
+      \verb{url}
+      \verb https://apps.apple.com/us/app/habitica/id994882113
+      \endverb
+    \endentry
+    \entry{locke2002building}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3a235aa304a8139ad5907617ac24fb76}{%
+           family={Locke},
+           familyi={L\bibinitperiod},
+           given={Edwin\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=874820129bd8a88281624b367a49a1bc}{%
+           family={Latham},
+           familyi={L\bibinitperiod},
+           given={Gary\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{fullhash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{fullhashraw}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{bibnamehash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{authorbibnamehash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{authornamehash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{authorfullhash}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \strng{authorfullhashraw}{02e3ae51b1aa605fae9a2fa779c8a802}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Psychologist}
+      \field{number}{9}
+      \field{title}{Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey}
+      \field{volume}{57}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{705\bibrangedash 717}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1037/0003-066X.57.9.705
+      \endverb
+    \endentry
+    \entry{mazzotti2024goalsetting}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=ed77288d759868f2f9544caceb0e1cf6}{%
+           family={Mazzotti},
+           familyi={M\bibinitperiod},
+           given={Valerie\bibnamedelima L.},
+           giveni={V\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aed8fa46019e05936fb5524940e96c83}{%
+           family={Shogren},
+           familyi={S\bibinitperiod},
+           given={Karrie\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98a642eeb71ad20d3dbff86dba3c5749}{%
+           family={Stewart-Ginsburg},
+           familyi={S\bibinithyphendelim G\bibinitperiod},
+           given={Jared\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32229b85ec4d8dd452638faed1086122}{%
+           family={Kwiatek},
+           familyi={K\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77fa230f0c7d405f8bb92155cd9e0f6d}{%
+           family={Hagiwara},
+           familyi={H\bibinitperiod},
+           given={Mayumi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2987a40efd665e2a5083187d507acbc7}{%
+           family={Wysenski},
+           familyi={W\bibinitperiod},
+           given={Danielle\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b5913b7e86e8ed4a931b10c4634e468}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d600b889e34b532e235aaf7fb68f9171}
+      \strng{fullhash}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \strng{fullhashraw}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \strng{bibnamehash}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \strng{authorbibnamehash}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \strng{authornamehash}{d600b889e34b532e235aaf7fb68f9171}
+      \strng{authorfullhash}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \strng{authorfullhashraw}{3ac0865b9ca508aa09c5a5c45158bf74}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Career Development and Transition for Exceptional Individuals}
+      \field{number}{1}
+      \field{title}{The Goal Setting Challenge App: Promoting Self-Determination Through Technology}
+      \field{volume}{47}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{50\bibrangedash 60}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1177/07419325221147698
+      \endverb
+    \endentry
+    \entry{reactDocsHooks}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c56f762d9ebe73063cd2d157e97351f}{%
+           family={{Meta Open Source}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{fullhash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{fullhashraw}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{bibnamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorbibnamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authornamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorfullhash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorfullhashraw}{6c56f762d9ebe73063cd2d157e97351f}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Built-in React Hooks}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://react.dev/reference/react/hooks
+      \endverb
+      \verb{url}
+      \verb https://react.dev/reference/react/hooks
+      \endverb
+    \endentry
+    \entry{reactDocsState}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c56f762d9ebe73063cd2d157e97351f}{%
+           family={{Meta Open Source}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{fullhash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{fullhashraw}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{bibnamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorbibnamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authornamehash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorfullhash}{6c56f762d9ebe73063cd2d157e97351f}
+      \strng{authorfullhashraw}{6c56f762d9ebe73063cd2d157e97351f}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{State: A Component's Memory}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://react.dev/learn/state-a-components-memory
+      \endverb
+      \verb{url}
+      \verb https://react.dev/learn/state-a-components-memory
+      \endverb
+    \endentry
+    \entry{bctEngagement2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f457456d1c659ff20a8d3e7a89faa19d}{%
+           family={Milne-Ives},
+           familyi={M\bibinithyphendelim I\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb745331e088d986c545d76e56bb29b6}{%
+           family={Homer},
+           familyi={H\bibinitperiod},
+           given={Sophie\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22bd31ea33648fb2d600e4552d8289f5}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Jackie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87be23f58b6577dc3a3f4095740058f2}{%
+           family={Meinert},
+           familyi={M\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{77eede739ba1f1c6752bfd1cdf331052}
+      \strng{fullhash}{7a2308bfe8b8f4727d5e84718934dbec}
+      \strng{fullhashraw}{7a2308bfe8b8f4727d5e84718934dbec}
+      \strng{bibnamehash}{7a2308bfe8b8f4727d5e84718934dbec}
+      \strng{authorbibnamehash}{7a2308bfe8b8f4727d5e84718934dbec}
+      \strng{authornamehash}{77eede739ba1f1c6752bfd1cdf331052}
+      \strng{authorfullhash}{7a2308bfe8b8f4727d5e84718934dbec}
+      \strng{authorfullhashraw}{7a2308bfe8b8f4727d5e84718934dbec}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{title}{Potential Associations Between Behavior Change Techniques and Engagement With Mobile Health Apps: A Systematic Review}
+      \field{volume}{14}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{1227443}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2023.1227443
+      \endverb
+    \endentry
+    \entry{nielsen2012usability}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhashraw}{753054f71283d85f82cda8e35daf6bac}
+      \strng{bibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorbibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authornamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhashraw}{753054f71283d85f82cda8e35daf6bac}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Usability 101: Introduction to Usability}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nngroup.com/articles/usability-101-introduction-to-usability/
+      \endverb
+      \verb{url}
+      \verb https://www.nngroup.com/articles/usability-101-introduction-to-usability/
+      \endverb
+    \endentry
+    \entry{niven2016objectives}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6d9dcd58d91d346aee724852821d45e}{%
+           family={Niven},
+           familyi={N\bibinitperiod},
+           given={Paul\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0772c8348a104a19518b47ac4ea8034d}{%
+           family={Lamorte},
+           familyi={L\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{fullhash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{fullhashraw}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{bibnamehash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{authorbibnamehash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{authornamehash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{authorfullhash}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \strng{authorfullhashraw}{a60e3bde4053c363db0700e3c2a0eb6a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Objectives and Key Results: Driving Focus, Alignment, and Engagement with OKRs}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{norman2013design}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=23f12bb124db5cb91003802eaee52457}{%
+           family={Norman},
+           familyi={N\bibinitperiod},
+           given={Don},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{23f12bb124db5cb91003802eaee52457}
+      \strng{fullhash}{23f12bb124db5cb91003802eaee52457}
+      \strng{fullhashraw}{23f12bb124db5cb91003802eaee52457}
+      \strng{bibnamehash}{23f12bb124db5cb91003802eaee52457}
+      \strng{authorbibnamehash}{23f12bb124db5cb91003802eaee52457}
+      \strng{authornamehash}{23f12bb124db5cb91003802eaee52457}
+      \strng{authorfullhash}{23f12bb124db5cb91003802eaee52457}
+      \strng{authorfullhashraw}{23f12bb124db5cb91003802eaee52457}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Revised and expanded}
+      \field{title}{The Design of Everyday Things}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{pew2024screens}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83778ea1c38ca19c82fc35bb68b48c1b}{%
+           family={{Pew Research Center}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{fullhash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{fullhashraw}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{bibnamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorbibnamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authornamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorfullhash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorfullhashraw}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{3}
+      \field{title}{How Teens and Parents Approach Screen Time}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/
+      \endverb
+      \verb{url}
+      \verb https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/
+      \endverb
+    \endentry
+    \entry{postgresDocsConstraints}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36423acfb135ffe286ea438eafcb0bc6}{%
+           family={{PostgreSQL Global Development Group}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{fullhash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{fullhashraw}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{bibnamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorbibnamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authornamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorfullhash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorfullhashraw}{36423acfb135ffe286ea438eafcb0bc6}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PostgreSQL Documentation: Constraints}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.postgresql.org/docs/current/ddl-constraints.html
+      \endverb
+      \verb{url}
+      \verb https://www.postgresql.org/docs/current/ddl-constraints.html
+      \endverb
+    \endentry
+    \entry{postgresDocsIndexes}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36423acfb135ffe286ea438eafcb0bc6}{%
+           family={{PostgreSQL Global Development Group}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{fullhash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{fullhashraw}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{bibnamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorbibnamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authornamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorfullhash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorfullhashraw}{36423acfb135ffe286ea438eafcb0bc6}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PostgreSQL Documentation: Indexes}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.postgresql.org/docs/current/indexes.html
+      \endverb
+      \verb{url}
+      \verb https://www.postgresql.org/docs/current/indexes.html
+      \endverb
+    \endentry
+    \entry{prismaDocsRelations}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee10f79aa18f7cf1c69142450a809181}{%
+           family={{Prisma}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{fullhash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{fullhashraw}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{bibnamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorbibnamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authornamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorfullhash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorfullhashraw}{ee10f79aa18f7cf1c69142450a809181}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prisma Documentation: Relations}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.prisma.io/docs/orm/prisma-schema/data-model/relations
+      \endverb
+      \verb{url}
+      \verb https://www.prisma.io/docs/orm/prisma-schema/data-model/relations
+      \endverb
+    \endentry
+    \entry{prismaDocsSchema}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee10f79aa18f7cf1c69142450a809181}{%
+           family={{Prisma}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{fullhash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{fullhashraw}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{bibnamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorbibnamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authornamehash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorfullhash}{ee10f79aa18f7cf1c69142450a809181}
+      \strng{authorfullhashraw}{ee10f79aa18f7cf1c69142450a809181}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prisma Schema Overview}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.prisma.io/docs/orm/prisma-schema/overview
+      \endverb
+      \verb{url}
+      \verb https://www.prisma.io/docs/orm/prisma-schema/overview
+      \endverb
+    \endentry
+    \entry{walkingGoals2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f82c5c584b7adaebae3d71f8def150e4}{%
+           family={Rei},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65a6e3c3d375e733e650e4a6aedae125}{%
+           family={Clavel},
+           familyi={C\bibinitperiod},
+           given={Céline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7fa5113aae0877ea4ca12fc5f22ae92}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Jean-Claude},
+           giveni={J\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1714515fbfa1f4d6c7ae03ec162fc531}{%
+           family={Ravenet},
+           familyi={R\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{703a7d2a3db33ff5e1e2d6c00f2fee37}
+      \strng{fullhash}{2b6d4c1fe721fa432e740b7f906ee285}
+      \strng{fullhashraw}{2b6d4c1fe721fa432e740b7f906ee285}
+      \strng{bibnamehash}{2b6d4c1fe721fa432e740b7f906ee285}
+      \strng{authorbibnamehash}{2b6d4c1fe721fa432e740b7f906ee285}
+      \strng{authornamehash}{703a7d2a3db33ff5e1e2d6c00f2fee37}
+      \strng{authorfullhash}{2b6d4c1fe721fa432e740b7f906ee285}
+      \strng{authorfullhashraw}{2b6d4c1fe721fa432e740b7f906ee285}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Smart Health}
+      \field{title}{Adapting Goals and Motivational Messages on Smartphones for Motivation to Walk}
+      \field{volume}{32}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{100482}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.smhl.2024.100482
+      \endverb
+    \endentry
+    \entry{sailer2017gamification}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d8d811af5b74abad8cd6b169ab55b1dd}{%
+           family={Sailer},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=381924d179b9200f612f08fb65cddb7e}{%
+           family={Hense},
+           familyi={H\bibinitperiod},
+           given={Jan\bibnamedelima Ulrich},
+           giveni={J\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9859017f8d4477c2c30378a01e7cd3e5}{%
+           family={Mayr},
+           familyi={M\bibinitperiod},
+           given={Sarah\bibnamedelima Katharina},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce368859b4c0d12966ee45452f380492}{%
+           family={Mandl},
+           familyi={M\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{588d2a7e9ab517ef56b7211a0060a2d1}
+      \strng{fullhash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{fullhashraw}{469f107dea3e6277aa1ca700d94af680}
+      \strng{bibnamehash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{authorbibnamehash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{authornamehash}{588d2a7e9ab517ef56b7211a0060a2d1}
+      \strng{authorfullhash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{authorfullhashraw}{469f107dea3e6277aa1ca700d94af680}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers in Human Behavior}
+      \field{title}{How Gamification Motivates: An Experimental Study of the Effects of Specific Game Design Elements on Psychological Need Satisfaction}
+      \field{volume}{69}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{371\bibrangedash 380}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.chb.2016.12.033
+      \endverb
+    \endentry
+    \entry{sensortower2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=915cb50113d355eaa05389da3a07dbcc}{%
+           family={{Sensor Tower}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{fullhash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{fullhashraw}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{bibnamehash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{authorbibnamehash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{authornamehash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{authorfullhash}{915cb50113d355eaa05389da3a07dbcc}
+      \strng{authorfullhashraw}{915cb50113d355eaa05389da3a07dbcc}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{State of Mobile 2025}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sensortower.com/state-of-mobile-2025
+      \endverb
+      \verb{url}
+      \verb https://sensortower.com/state-of-mobile-2025
+      \endverb
+    \endentry
+    \entry{stridesOfficial}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fefc3ece509549d4dccfeee24759e8fb}{%
+           family={{Strides}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{fullhash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{fullhashraw}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{bibnamehash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{authorbibnamehash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{authornamehash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{authorfullhash}{fefc3ece509549d4dccfeee24759e8fb}
+      \strng{authorfullhashraw}{fefc3ece509549d4dccfeee24759e8fb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Strides: Goal and Habit Tracker}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.stridesapp.com/
+      \endverb
+      \verb{url}
+      \verb https://www.stridesapp.com/
+      \endverb
+    \endentry
+    \entry{nextDocsAppGlossary}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc173d57136dbe619cbccee88ee6421c}{%
+           family={{Vercel}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{bibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorbibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authornamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Next.js App Router Glossary}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nextjs.org/docs/app/glossary
+      \endverb
+      \verb{url}
+      \verb https://nextjs.org/docs/app/glossary
+      \endverb
+    \endentry
+    \entry{nextDocsRendering}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc173d57136dbe619cbccee88ee6421c}{%
+           family={{Vercel}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{bibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorbibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authornamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Next.js Rendering}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nextjs.org/docs/15/pages/building-your-application/rendering
+      \endverb
+      \verb{url}
+      \verb https://nextjs.org/docs/15/pages/building-your-application/rendering
+      \endverb
+    \endentry
+    \entry{w3cWcag22News}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdea812935506778c291249971f80655}{%
+           family={{World Wide Web Consortium}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdea812935506778c291249971f80655}
+      \strng{fullhash}{bdea812935506778c291249971f80655}
+      \strng{fullhashraw}{bdea812935506778c291249971f80655}
+      \strng{bibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authorbibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authornamehash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhashraw}{bdea812935506778c291249971f80655}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{month}{10}
+      \field{title}{WCAG 2.2 is a W3C Recommendation Web Standard}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/WAI/news/2023-10-05/wcag22rec/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/WAI/news/2023-10-05/wcag22rec/
+      \endverb
+    \endentry
+    \entry{w3cWcag22}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdea812935506778c291249971f80655}{%
+           family={{World Wide Web Consortium}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdea812935506778c291249971f80655}
+      \strng{fullhash}{bdea812935506778c291249971f80655}
+      \strng{fullhashraw}{bdea812935506778c291249971f80655}
+      \strng{bibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authorbibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authornamehash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhashraw}{bdea812935506778c291249971f80655}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{12}
+      \field{title}{Web Content Accessibility Guidelines (WCAG) 2.2}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/TR/wcag/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/TR/wcag/
+      \endverb
+    \endentry
+    \entry{wang2022gamification}{article}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=f73249864b059f8b1a57bf549084a1c0}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Linqi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91051465490a070eabf137e35bc47e43}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Hongyu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f9f86013961eb698eb45def01963ac7}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Meidi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cd1c8ced5b0abf7a02cde2742b6dfd6}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Yuanyuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f3bb1d3c7fa2a05241e353723deaf63}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a486b155f20cd9b6cb6e391495d5995c}{%
+           family={Pang},
+           familyi={P\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c10b16fb430b92a28a9edb35eacf870}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Tianzhuo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eca4c9579a073ab905b656ca1df930ba}{%
+           family={Lian},
+           familyi={L\bibinitperiod},
+           given={Xiaoqian},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93b8b2ff330ec500f4a619792d97f706}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Tianyue},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecfeff137411d8e887f57d3131dcbd11}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xige},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89b23cce0bb40099f7b69f6577f665fe}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e6a222c0db589082fd95a02473eac60f}
+      \strng{fullhash}{984f686029318db97e98089db3fb50e2}
+      \strng{fullhashraw}{984f686029318db97e98089db3fb50e2}
+      \strng{bibnamehash}{984f686029318db97e98089db3fb50e2}
+      \strng{authorbibnamehash}{984f686029318db97e98089db3fb50e2}
+      \strng{authornamehash}{e6a222c0db589082fd95a02473eac60f}
+      \strng{authorfullhash}{984f686029318db97e98089db3fb50e2}
+      \strng{authorfullhashraw}{984f686029318db97e98089db3fb50e2}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JMIR mHealth and uHealth}
+      \field{number}{2}
+      \field{title}{The Effects of mHealth-Based Gamification Interventions on Participation in Physical Activity: Systematic Review}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{e27794}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/27794
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

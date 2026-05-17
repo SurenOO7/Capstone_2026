@@ -28,12 +28,12 @@ The paper MUST follow the university's Format 1 structure exactly, without modif
 |---|---------|-------|------------------|
 | 1 | Titlepage | 1 | ԵՄՀ official format |
 | 2 | Table of Contents | 1-2 | All chapters and subchapters listed |
-| 3 | Introduction (Ներածություն) | 2-3 | Topic relevance, purpose, 3-5 measurable objectives, work structure overview |
-| 4 | Ch.1: Literature Review (Գրականության ակնարկ) | 15-17 | Min 10 scientific sources, 3+ must be recent articles |
-| 5 | Ch.2: Research Methods (Հետազոտության մեթոդներ) | 1-2 | Data collection methods (quantitative/qualitative/mixed), tools in appendices |
-| 6 | Ch.3: Results, Analysis & Discussion (Արդյունքների վերլուծություն և քննարկում) | 15-20 | Main findings, data interpretation, analysis |
-| 7 | Ch.4: Conclusions & Recommendations (Եզրակացություններ և առաջարկություններ) | 2-3 | Linked to Ch.1 objectives, evidence-based recommendations |
-| 8 | Bibliography (Գրականության ցանկ) | — | APA format, alphabetical, categorized |
+| 3 | Ch.1: Introduction (Ներածություն) | 2-3 | Topic relevance, purpose, 3-5 measurable objectives, work structure overview |
+| 4 | Ch.2: Literature Analysis (Գրականության վերլուծություն) | 15-17 | Min 10 scientific sources, 3+ must be recent articles |
+| 5 | Ch.3: Research Implementation Methods (Հետազոտության իրականացման մեթոդները) | 1-2 | Data collection methods (quantitative/qualitative/mixed), tools in appendices |
+| 6 | Ch.4: Results, Analysis & Discussion (Արդյունքներ, վերլուծություն և քննարկում) | 15-20 | Main findings, data interpretation, analysis |
+| 7 | Ch.5: Conclusions & Recommendations (Եզրակացություններ և առաջարկություններ) | 2-3 | Linked to Ch.1 objectives, evidence-based recommendations |
+| 8 | Bibliography (Օգտագործված գրականության ցանկ) | — | APA format, alphabetical, categorized |
 | 9 | Appendices (Հավելվածներ) | — | Numbered, referenced in text |
 
 **Total: 30-35 pages** (excluding appendices and bibliography)

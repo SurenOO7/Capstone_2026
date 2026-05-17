@@ -1,6 +1,15 @@
 \xpg@aux {}{armenian}
-\contentsline {chapter}{\numberline {\@arabic \c@chapter }ՆԵՐԱԾՈՒԹՅՈՒՆ}{\@arabic \c@page }{chapter.1}%
-\contentsline {chapter}{\numberline {\@arabic \c@chapter }ԳՐԱԿԱՆՈՒԹՅԱՆ ԱԿՆԱՐԿ}{\@arabic \c@page }{chapter.2}%
-\contentsline {chapter}{\numberline {\@arabic \c@chapter }ՀԵՏԱԶՈՏՈՒԹՅԱՆ ՄԵԹՈԴՆԵՐ}{\@arabic \c@page }{chapter.3}%
-\contentsline {chapter}{\numberline {\@arabic \c@chapter }ԱՐԴՅՈՒՆՔՆԵՐԻ ՎԵՐԼՈՒԾՈՒԹՅՈՒՆ ԵՎ ՔՆՆԱՐԿՈՒՄ}{\@arabic \c@page }{chapter.4}%
-\contentsline {chapter}{\numberline {\@arabic \c@chapter }ԵԶՐԱԿԱՑՈՒԹՅՈՒՆՆԵՐ ԵՎ ԱՌԱՋԱՐԿՈՒԹՅՈՒՆՆԵՐ}{\@arabic \c@page }{chapter.5}%
+\contentsline {chapter}{\numberline {1}ՆԵՐԱԾՈՒԹՅՈՒՆ}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}ԳՐԱԿԱՆՈՒԹՅԱՆ ՎԵՐԼՈՒԾՈՒԹՅՈՒՆ}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Նպատակադրման տեսություններ}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Գոյություն ունեցող նպատակների հետևման հավելվածների համեմատական վերլուծություն}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Վեբ հավելվածների մշակման մեթոդաբանություններ}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Ժամանակակից վեբ տեխնոլոգիաներ}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}UX/UI դիզայնի սկզբունքներ արտադրողականության հավելվածների համար}{12}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Տվյալների բազայի նախագծման օրինաչափություններ նպատակների և առաջադրանքների համակարգերում}{13}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Օգտատիրոջ ներգրավվածություն և մոտիվացիա}{14}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Mobile-responsive դիզայն և մատչելիության չափանիշներ}{16}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Գրականության վերլուծության ամփոփում}{17}{section.2.9}%
+\contentsline {chapter}{\numberline {3}ՀԵՏԱԶՈՏՈՒԹՅԱՆ ԻՐԱԿԱՆԱՑՄԱՆ ՄԵԹՈԴՆԵՐԸ}{19}{chapter.3}%
+\contentsline {chapter}{\numberline {4}ԱՐԴՅՈՒՆՔՆԵՐ, ՎԵՐԼՈՒԾՈՒԹՅՈՒՆ ԵՎ ՔՆՆԱՐԿՈՒՄ}{20}{chapter.4}%
+\contentsline {chapter}{\numberline {5}ԵԶՐԱԿԱՑՈՒԹՅՈՒՆՆԵՐ ԵՎ ԱՌԱՋԱՐԿՈՒԹՅՈՒՆՆԵՐ}{21}{chapter.5}%

@@ -1,9 +1,17 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'main.blg'
-[43] biber-darwin:342> INFO - === Mon May 18, 2026, 00:04:50
-[53] Biber.pm:421> INFO - Reading 'main.bcf'
-[106] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
-[118] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[119] bbl.pm:779> INFO - Output to main.bbl
-[119] Biber.pm:132> WARN - The file 'main.bcf' does not contain any citations!
-[119] Biber.pm:134> INFO - WARNINGS: 1
+[36] biber-darwin:342> INFO - === Mon May 18, 2026, 02:23:04
+[46] Biber.pm:421> INFO - Reading 'main.bcf'
+[98] Biber.pm:1002> INFO - Found 32 citekeys in bib section 0
+[109] Biber.pm:4487> INFO - Processing section 0
+[114] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
+[115] bibtex.pm:1713> INFO - LaTeX decoding ...
+[127] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[246] UCollate.pm:68> INFO - Overriding locale 'hy-AM' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[246] UCollate.pm:68> INFO - Overriding locale 'hy-AM' defaults 'variable = shifted' with 'variable = non-ignorable'
+[246] Biber.pm:4307> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'hy-AM'
+[283] UCollate.pm:68> INFO - Overriding locale 'hy-AM' defaults 'variable = shifted' with 'variable = non-ignorable'
+[283] UCollate.pm:68> INFO - Overriding locale 'hy-AM' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[283] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'hy-AM'
+[304] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[323] bbl.pm:779> INFO - Output to main.bbl

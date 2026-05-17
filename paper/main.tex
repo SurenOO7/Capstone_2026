@@ -5,17 +5,20 @@
 \setmainfont{Sylfaen}[
   Path=/Users/surenarzumanyan/Library/Fonts/,
   Extension=.ttf,
-  UprightFont=sylfaen
+  UprightFont=sylfaen,
+  AutoFakeBold=2.2
 ]
 \usepackage{polyglossia}
 \setmainlanguage{armenian}
 \setotherlanguage{english}
+\addto\captionsarmenian{\renewcommand{\contentsname}{ԲՈՎԱՆԴԱԿՈՒԹՅՈՒՆ}}
 % Sylfaen supports Armenian Unicode but polyglossia needs explicit declaration
 \newfontfamily\armenianfont{Sylfaen}[
   Script=Armenian,
   Path=/Users/surenarzumanyan/Library/Fonts/,
   Extension=.ttf,
-  UprightFont=sylfaen
+  UprightFont=sylfaen,
+  AutoFakeBold=2.2
 ]
 
 % --- Page geometry ---
@@ -24,9 +27,11 @@
 % --- Spacing ---
 \usepackage{setspace}
 \onehalfspacing
+\setlength{\emergencystretch}{3em}
 
 % --- Page numbers bottom-right, no header ---
 \usepackage{fancyhdr}
+\newcommand{\usedigitpagenumbers}{\renewcommand{\thepage}{\number\value{page}}}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyfoot[R]{\thepage}
@@ -39,13 +44,29 @@
 
 % --- Chapter/section titles: UPPERCASE, Bold, 12pt, no trailing period ---
 \usepackage{titlesec}
+\usepackage{tocloft}
+\setcounter{secnumdepth}{1}
+\setcounter{tocdepth}{1}
+\renewcommand{\thechapter}{\number\value{chapter}}
+\renewcommand{\thesection}{\thechapter.\number\value{section}}
+\makeatletter
+\renewcommand{\@pnumwidth}{2.5em}
+\renewcommand{\@tocrmarg}{3.5em}
+\makeatother
 \titleformat{\chapter}[block]
-  {\normalfont\fontsize{12}{14}\selectfont\bfseries\MakeUppercase}
-  {\thechapter.}{1em}{}
+  {\normalfont\fontsize{12}{14}\selectfont\bfseries}
+  {ԳԼՈՒԽ \thechapter.}{0.5em}{\MakeUppercase}
+\titleformat{name=\chapter,numberless}[block]
+  {\normalfont\fontsize{12}{14}\selectfont\bfseries}
+  {}{0pt}{\MakeUppercase}
 \titleformat{\section}[block]
   {\normalfont\fontsize{12}{14}\selectfont\bfseries}
-  {\thesection.}{1em}{}
+  {\thesection}{1em}{}
 \titlespacing*{\chapter}{0pt}{0pt}{12pt}
+\renewcommand{\cftchappresnum}{ԳԼՈՒԽ }
+\renewcommand{\cftchapaftersnum}{.}
+\setlength{\cftchapnumwidth}{5.5em}
+\setlength{\cftsecnumwidth}{3em}
 % Each new chapter starts on a new page
 \newcommand{\chapterbreak}{\clearpage}
 
@@ -69,12 +90,17 @@
 \input{chapters/titlepage}
 
 % Table of contents
-\pagenumbering{roman}
+\pagenumbering{arabic}
+\usedigitpagenumbers
+\begingroup
+\sloppy
 \tableofcontents
+\endgroup
 \clearpage
 
 % Main content — Arabic page numbering from Introduction
 \pagenumbering{arabic}
+\usedigitpagenumbers
 \input{chapters/introduction}
 \input{chapters/literature}
 \input{chapters/methods}
@@ -83,7 +109,7 @@
 
 % Bibliography
 \clearpage
-\printbibliography[title={ԳՐԱԿԱՆՈՒԹՅԱՆ ՑԱՆԿ}]
+\printbibliography[title={ՕԳՏԱԳՈՐԾՎԱԾ ԳՐԱԿԱՆՈՒԹՅԱՆ ՑԱՆԿ}]
 
 % Appendices (uncomment as they are added)
 % \appendix

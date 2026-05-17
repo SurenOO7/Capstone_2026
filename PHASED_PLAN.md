@@ -36,7 +36,7 @@
 - [ ] Create `main.tex` with all chapter includes
 - [ ] Verify LaTeX compiles to PDF correctly
 
-### 1.2 Paper: Introduction (Ներածություն — 2-3 pages)
+### 1.2 Paper: Chapter 1 — Introduction (Ներածություն — 2-3 pages)
 - [ ] Topic relevance: why personal goal tracking matters (productivity research, digital wellness)
 - [ ] Problem statement: lack of user-friendly, comprehensive goal tracking tools
 - [ ] Research purpose: to design and develop a web application for personal goal management
@@ -50,29 +50,29 @@
 
 ---
 
-## Phase 2: Literature Review (Week 2-3)
+## Phase 2: Literature Analysis (Week 2-3)
 
-### 2.1 Paper: Literature Review (Գրականության ակնարկ — 15-17 pages)
+### 2.1 Paper: Chapter 2 — Literature Analysis (Գրականության վերլուծություն — 15-17 pages)
 
 Research areas to cover:
-- [ ] Goal-setting theories (SMART goals, Locke & Latham's Goal Setting Theory, OKRs)
-- [ ] Existing goal tracking applications analysis (Todoist, Habitica, Strides, Goals on Track, etc.)
-- [ ] Web application development methodologies (Agile, iterative design)
-- [ ] Modern web technologies review (Next.js, React, SPA vs SSR)
-- [ ] UX/UI design principles for productivity applications
-- [ ] Database design patterns for task/goal management systems
-- [ ] User engagement and motivation in digital tools (gamification, streaks, notifications)
-- [ ] Mobile-responsive design and accessibility standards
+- [x] Goal-setting theories (SMART goals, Locke & Latham's Goal Setting Theory, OKRs)
+- [x] Existing goal tracking applications analysis (Todoist, Habitica, Strides, Goals on Track, etc.)
+- [x] Web application development methodologies (Agile, iterative design)
+- [x] Modern web technologies review (Next.js, React, SPA vs SSR)
+- [x] UX/UI design principles for productivity applications
+- [x] Database design patterns for task/goal management systems
+- [x] User engagement and motivation in digital tools (gamification, streaks, notifications)
+- [x] Mobile-responsive design and accessibility standards
 
 Source requirements:
-- [ ] Minimum 10 scientific sources
-- [ ] At least 3 recent scientific articles (2022-2026)
-- [ ] Include Armenian and international sources
-- [ ] All citations in APA format
+- [x] Minimum 10 scientific sources
+- [x] At least 3 recent scientific articles (2022-2026)
+- [x] Include Armenian and international sources
+- [x] All citations in APA format
 
 ### Deliverables
-- Complete literature review chapter (15-17 pages, Armenian)
-- `references.bib` with all sources in BibTeX format
+- [x] Complete literature review chapter (15-17 pages, Armenian)
+- [x] `references.bib` with all sources in BibTeX format
 
 ---
 
@@ -177,7 +177,7 @@ Source requirements:
 
 ## Phase 6: Paper — Methods Chapter (Week 7-8)
 
-### 6.1 Paper: Research Methods (Հետազոտության մեթոդներ — 1-2 pages)
+### 6.1 Paper: Chapter 3 — Research Implementation Methods (Հետազոտության իրականացման մեթոդները — 1-2 pages)
 - [ ] Development methodology description (Agile/iterative)
 - [ ] Technology stack justification (why Next.js, PocketBase, etc.)
 - [ ] Data collection methods:
@@ -195,7 +195,7 @@ Source requirements:
 
 ## Phase 7: Paper — Results & Discussion (Week 8-9)
 
-### 7.1 Paper: Results, Analysis & Discussion (Արդյունքների վերլուծություն և քննարկում — 15-20 pages)
+### 7.1 Paper: Chapter 4 — Results, Analysis & Discussion (Արդյունքներ, վերլուծություն և քննարկում — 15-20 pages)
 - [ ] Application architecture overview with diagrams
 - [ ] Database design description with ER diagram
 - [ ] Key feature implementation details with screenshots
@@ -215,7 +215,7 @@ Source requirements:
 
 ## Phase 8: Paper — Conclusions & Final Assembly (Week 9-10)
 
-### 8.1 Paper: Conclusions & Recommendations (Եզրակացություններ և առաջարկություններ — 2-3 pages)
+### 8.1 Paper: Chapter 5 — Conclusions & Recommendations (Եզրակացություններ և առաջարկություններ — 2-3 pages)
 - [ ] Summary of findings linked to each objective from Introduction
 - [ ] At least 2 evidence-based recommendations
 - [ ] Limitations of the research
@@ -263,7 +263,7 @@ The following should be included as appendices:
 | Phase | Duration | Output |
 |-------|----------|--------|
 | 1. Setup & Introduction | Week 1 | Project skeleton + Introduction draft |
-| 2. Literature Review | Week 2-3 | Literature review (15-17 pages) |
+| 2. Literature Analysis | Week 2-3 | Literature analysis (15-17 pages) |
 | 3. App Design | Week 3-4 | Wireframes, DB schema, architecture |
 | 4. Core Development | Week 4-6 | Working application |
 | 5. Polish & Advanced | Week 6-7 | Production-ready app |
