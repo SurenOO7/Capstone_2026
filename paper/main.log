@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  18 MAY 2026 00:05
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  18 MAY 2026 00:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -846,6 +846,74 @@ Package polyglossia Warning: Illegal value (0) for Armenian numeral
 
 ] (./chapters/introduction.tex
 Գլուխ \@arabic \c@chapter .
+
+Underfull \hbox (badness 1810) in paragraph at lines 6--7
+\TU/Sylfaen(1)/b/n/12 սովորությունների ձևավորման, առաջադրանքների պլանավորման և 
+առողջ կենսա-
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 8--9
+\TU/Sylfaen(1)/b/n/12 կամ չափազանց պարզ են և սահմանափակվում են առաջադրանքների ց
+ուցակով,
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 8--9
+\TU/Sylfaen(1)/b/n/12 կամ հակառակը՝ ունեն բարդ կառուցվածք, որը դժվարացնում է ամ
+ենօրյա կիրա-
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 8--9
+\TU/Sylfaen(1)/b/n/12 Արդյունքում օգտատերը ստիպված է միաժամանակ օգտագործել մի ք
+անի տարբեր
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@arabic' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\c@page' on input line 9.
+
+[1
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@arabic' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\c@page' on input line 21.
+
+[2]
+Underfull \hbox (badness 1102) in paragraph at lines 21--22
+[]\TU/Sylfaen(1)/b/n/12 ապացուցել, որ առաջարկվող լուծումը կարող է նվազեցնել նպա
+տակների կա-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+\TU/Sylfaen(1)/b/n/12 ռավարման մասնատվածությունը՝ միավորելով պլանավորման, առաջը
+նթացի
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 24--25
+\TU/Sylfaen(1)/b/n/12 րի վերլուծությունը։ Երկրորդ գլխում ներկայացվում են հետազո
+տության մեթոդները,
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 24--25
+\TU/Sylfaen(1)/b/n/12 նախատեսվում է ներկայացնել լրացուցիչ նյութեր՝ էկրանապատկեր
+ներ, սխեմաներ,
+ []
+
 ) (./chapters/literature.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -855,38 +923,9 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\c@page' on input line 1.
 
-[1
-
-
-]
+[3]
 Գլուխ \@arabic \c@chapter .
 ) (./chapters/methods.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@arabic' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 1.
-
-[2
-
-]
-Գլուխ \@arabic \c@chapter .
-) (./chapters/results.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@arabic' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 1.
-
-[3
-
-]
-Գլուխ \@arabic \c@chapter .
-) (./chapters/conclusions.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@arabic' on input line 1.
@@ -899,6 +938,32 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ]
 Գլուխ \@arabic \c@chapter .
+) (./chapters/results.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@arabic' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\c@page' on input line 1.
+
+[5
+
+]
+Գլուխ \@arabic \c@chapter .
+) (./chapters/conclusions.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@arabic' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\c@page' on input line 1.
+
+[6
+
+]
+Գլուխ \@arabic \c@chapter .
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -908,7 +973,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\c@page' on input line 85.
 
-[5
+[7
 
 ]
 
@@ -930,12 +995,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20382 strings out of 468168
- 412116 string characters out of 5432815
- 1423619 words of memory out of 5000000
- 48896 multiletter control sequences out of 15000+600000
+ 20384 strings out of 468168
+ 412178 string characters out of 5432815
+ 1431619 words of memory out of 5000000
+ 48898 multiletter control sequences out of 15000+600000
  630905 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,11n,93p,693b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,11n,93p,1603b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (7 pages).
+Output written on main.pdf (9 pages).
