@@ -114,34 +114,34 @@ Source requirements:
 ## Phase 4: Core App Development (Week 4-6)
 
 ### 4.1 Authentication
-- [ ] Auth.js v5 setup with Prisma adapter for PostgreSQL
-- [ ] Login/Register pages
-- [ ] Protected routes middleware
-- [ ] User profile page
+- [x] Auth.js v5 setup with Prisma adapter for PostgreSQL
+- [x] Login/Register pages
+- [x] Protected routes middleware
+- [x] User profile page
 
 ### 4.2 Goal Management (CRUD)
-- [ ] Create goal form (title, description, category, priority, deadline, target value)
-- [ ] Goal list/grid view with filtering and sorting
-- [ ] Goal detail page with progress tracking
-- [ ] Edit and delete goals
-- [ ] Sub-goals / milestones
+- [x] Create goal form (title, description, category, priority, deadline, target value)
+- [x] Goal list/grid view with filtering and sorting
+- [x] Goal detail page with progress tracking
+- [x] Edit and delete goals
+- [x] Sub-goals / milestones
 
 ### 4.3 Dashboard
-- [ ] Overview statistics (total goals, completed, in progress, overdue)
-- [ ] Progress charts (Recharts — pie chart, bar chart, line chart)
-- [ ] Recent activity feed
-- [ ] Upcoming deadlines widget
+- [x] Overview statistics (total goals, completed, in progress, overdue)
+- [x] Progress charts (Recharts — pie chart, bar chart, line chart)
+- [x] Recent activity feed
+- [x] Upcoming deadlines widget
 
 ### 4.4 Categories & Organization
-- [ ] Category management (create, edit, delete, color-code)
-- [ ] Filter goals by category, status, priority
-- [ ] Search functionality
+- [x] Category management (create, edit, delete, color-code)
+- [x] Filter goals by category, status, priority
+- [x] Search functionality
 
 ### 4.5 Progress Tracking
-- [ ] Progress update mechanism (percentage, check-in, numeric target)
-- [ ] Progress history log
-- [ ] Streak tracking (consecutive days of progress)
-- [ ] Visual progress indicators (progress bars, rings)
+- [x] Progress update mechanism (percentage, check-in, numeric target)
+- [x] Progress history log
+- [x] Streak tracking (consecutive days of progress)
+- [x] Visual progress indicators (progress bars, rings)
 
 ### Deliverables
 - Fully functional thematic goal tracking website
