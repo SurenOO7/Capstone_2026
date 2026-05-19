@@ -1,6 +1,7 @@
 # Phased Plan — Capstone Project
 
-**Title:** «Անձնական նպատակների հետևման վեբ հավելվածի նախագծում և մշակում»
+**Title:** «Թեմատիկ վեբ կայքի ստեղծում առաջատար վեբ ծրագրավորմամբ»
+**Selected theme:** Personal goal tracking / անձնական նպատակների հետևում
 **Approach:** Parallel — paper chapters 1-2 first, then build app, then chapters 3-5
 
 ---
@@ -25,28 +26,28 @@
 ## Phase 1: Project Setup & Paper Foundation (Week 1)
 
 ### 1.1 Repository Setup
-- [ ] Initialize Next.js project with TypeScript in `app/`
-- [ ] Set up Tailwind CSS + shadcn/ui
-- [ ] Create `docker-compose.yml` with PostgreSQL service
-- [ ] Create `Dockerfile` for Next.js app (optional, for full containerized dev)
-- [ ] Initialize Prisma with PostgreSQL connection
-- [ ] Configure `.env` with database URL and secrets
-- [ ] Create LaTeX project structure in `paper/`
-- [ ] Configure XeLaTeX with Sylfaen font, margins, spacing
-- [ ] Create `main.tex` with all chapter includes
-- [ ] Verify LaTeX compiles to PDF correctly
+- [x] Initialize Next.js project with TypeScript in `app/`
+- [x] Set up Tailwind CSS + shadcn/ui
+- [x] Create `docker-compose.yml` with PostgreSQL service
+- [x] Create `Dockerfile` for Next.js app
+- [x] Initialize Prisma with PostgreSQL connection
+- [x] Configure `.env` with database URL and secrets
+- [x] Create LaTeX project structure in `paper/`
+- [x] Configure XeLaTeX with Sylfaen font, margins, spacing
+- [x] Create `main.tex` with all chapter includes
+- [x] Verify LaTeX compiles to PDF correctly
 
 ### 1.2 Paper: Chapter 1 — Introduction (Ներածություն — 2-3 pages)
-- [ ] Topic relevance: why personal goal tracking matters (productivity research, digital wellness)
-- [ ] Problem statement: lack of user-friendly, comprehensive goal tracking tools
-- [ ] Research purpose: to design and develop a web application for personal goal management
-- [ ] 3-5 measurable objectives (using verbs: evaluate, compare, develop, assess)
-- [ ] Work structure overview
+- [x] Topic relevance: why a thematic personal goal tracking website matters (productivity research, digital wellness, advanced web programming relevance)
+- [x] Problem statement: lack of user-friendly, comprehensive thematic web solutions for personal goal tracking
+- [x] Research purpose: to create a thematic website using advanced web programming, with personal goal management as the selected domain
+- [x] 3-5 measurable objectives (using verbs: evaluate, compare, develop, assess)
+- [x] Work structure overview
 
 ### Deliverables
-- Working LaTeX setup producing valid PDF
-- Next.js project skeleton running locally
-- Introduction chapter draft (Armenian)
+- [x] Working LaTeX setup producing valid PDF
+- [x] Next.js project skeleton running locally
+- [x] Introduction chapter draft (Armenian)
 
 ---
 
@@ -79,12 +80,13 @@ Source requirements:
 ## Phase 3: App Design & Architecture (Week 3-4)
 
 ### 3.1 Database Design (Prisma Schema + PostgreSQL)
-- [ ] User model (Auth.js managed, profile fields)
-- [ ] Goal model (title, description, category, priority, deadline, status, progress, userId FK)
-- [ ] Milestone model (sub-goals linked to parent Goal via FK)
-- [ ] Category model (name, color, icon, userId FK)
-- [ ] ProgressLog model (goalId FK, value, note, date)
-- [ ] Define relations, indexes, and constraints in Prisma schema
+- [x] User model (Auth.js managed, profile fields)
+- [x] Goal model (title, description, category, priority, deadline, status, progress, userId FK)
+- [x] Milestone model (sub-goals linked to parent Goal via FK)
+- [x] Category model (name, color, icon, userId FK)
+- [x] ProgressLog model (goalId FK, value, note, date)
+- [x] Define relations, indexes, and constraints in Prisma schema
+- [x] Prisma client generated
 - [ ] Create initial migration with `prisma migrate dev`
 - [ ] Design ER diagram for the paper
 
@@ -95,8 +97,8 @@ Source requirements:
 - [ ] User flow diagrams
 
 ### 3.3 App Architecture
-- [ ] Next.js App Router page structure
-- [ ] Prisma client setup and database connection
+- [x] Next.js App Router page structure
+- [x] Prisma client setup and database connection (app/src/lib/db.ts)
 - [ ] Auth.js v5 configuration (Google + GitHub + credentials)
 - [ ] API route design
 - [ ] State management approach
@@ -142,7 +144,7 @@ Source requirements:
 - [ ] Visual progress indicators (progress bars, rings)
 
 ### Deliverables
-- Fully functional goal tracking web application
+- Fully functional thematic goal tracking website
 - All core features working end-to-end
 - Screenshots captured for paper
 
@@ -179,7 +181,7 @@ Source requirements:
 
 ### 6.1 Paper: Chapter 3 — Research Implementation Methods (Հետազոտության իրականացման մեթոդները — 1-2 pages)
 - [ ] Development methodology description (Agile/iterative)
-- [ ] Technology stack justification (why Next.js, PocketBase, etc.)
+- [ ] Technology stack justification (why Next.js, PostgreSQL, Prisma, Auth.js, Docker)
 - [ ] Data collection methods:
   - Comparative analysis of existing tools (qualitative)
   - User survey/questionnaire (quantitative) — if applicable

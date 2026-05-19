@@ -7,14 +7,15 @@
 - **Department:** Computer Science / IT
 - **Year:** 2026
 - **Student:** Suren Arzumanyan (Սուրեն Արզումանյան)
-- **Paper Title:** «Անձնական նպատակների հետևման վեբ հավելվածի նախագծում և մշակում»
-  - (Design and Development of a Web Application for Personal Goal Tracking)
+- **Paper Title:** «Թեմատիկ վեբ կայքի ստեղծում առաջատար վեբ ծրագրավորմամբ»
+  - (Creation of a Thematic Website Using Advanced Web Programming)
+- **Selected Website Theme:** Personal goal tracking / անձնական նպատակների հետևում
 - **Paper Language:** Armenian
 - **Tech Stack:** Next.js full-stack
 
 This repository contains two parts:
 1. **`paper/`** — The LaTeX source for the bachelor's thesis (Armenian, XeLaTeX + Sylfaen)
-2. **`app/`** — The Next.js web application (goal tracking platform)
+2. **`app/`** — The Next.js thematic website implementation (personal goal tracking platform)
 
 ---
 

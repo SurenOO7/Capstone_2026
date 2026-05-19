@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  18 MAY 2026 02:25
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  20 MAY 2026 00:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -855,16 +855,22 @@ Package hyperref Info: Link coloring OFF on input line 86.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
- (./chapters/titlepage.tex [1
+ (./chapters/titlepage.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 25.
+ [1
 
 ])
 (./main.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 2.
+Underfull \hbox (badness 1147) in paragraph at lines 8--8
+ [][] [][]\TU/Sylfaen(1)/m/n/12 UX/UI դիզայնի սկզբունքներ արտադրողականության թե
+մատիկ վեբ 
+ []
+
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -872,104 +878,170 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1] (./chapters/introduction.tex
 Գլուխ 1.
 
-Underfull \hbox (badness 1810) in paragraph at lines 6--7
-\TU/Sylfaen(1)/m/n/12 սովորությունների ձևավորման, առաջադրանքների պլանավորման և 
-առողջ կենսա-
+Underfull \hbox (badness 2368) in paragraph at lines 4--5
+\TU/Sylfaen(1)/m/n/12 տանքի պաշտոնական թեման է «Թեմատիկ վեբ կայքի ստեղծում առաջ
+ատար վեբ
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 8--9
-\TU/Sylfaen(1)/m/n/12 կամ չափազանց պարզ են և սահմանափակվում են առաջադրանքների ց
-ուցակով,
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\TU/Sylfaen(1)/m/n/12 Ժամանակակից հասարակությունում անձնական նպատակների կառավ
+արումը
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 8--9
-\TU/Sylfaen(1)/m/n/12 կամ հակառակը՝ ունեն բարդ կառուցվածք, որը դժվարացնում է ամ
-ենօրյա կիրա-
+Underfull \hbox (badness 1584) in paragraph at lines 6--7
+\TU/Sylfaen(1)/m/n/12 և չափելի նպատակները բարձրացնում են կատարողականի մակարդակը
+, քանի որ
  []
 
 
-Underfull \hbox (badness 2088) in paragraph at lines 8--9
-\TU/Sylfaen(1)/m/n/12 Արդյունքում օգտատերը ստիպված է միաժամանակ օգտագործել մի ք
-անի տարբեր
+Underfull \hbox (badness 1515) in paragraph at lines 8--9
+\TU/Sylfaen(1)/m/n/12 ցության միտումներով։ Վերջին տարիներին լայն տարածում են ստ
+ացել ժամանակի
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 8--9
+\TU/Sylfaen(1)/m/n/12 կառավարման, սովորությունների ձևավորման, առաջադրանքների պլ
+անավորման և
  []
 
 [1
 
 
-] [2]
-Underfull \hbox (badness 1102) in paragraph at lines 21--22
-[]\TU/Sylfaen(1)/m/n/12 ապացուցել, որ առաջարկվող լուծումը կարող է նվազեցնել նպա
-տակների կա-
+]
+Underfull \hbox (badness 1194) in paragraph at lines 12--13
+\TU/Sylfaen(1)/m/n/12 նալ ամբողջականության միջև հավասարակշռության բացակայությու
+նը։ Եթե թվային
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-\TU/Sylfaen(1)/m/n/12 ռավարման մասնատվածությունը՝ միավորելով պլանավորման, առաջը
-նթացի
+Underfull \hbox (badness 1205) in paragraph at lines 12--13
+\TU/Sylfaen(1)/m/n/12 նպատակները և պարբերաբար թարմացնել առաջընթացը։ Եթե այն չու
+նի բավարար
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 24--25
+Underfull \hbox (badness 1533) in paragraph at lines 14--15
+\TU/Sylfaen(1)/m/n/12 ցումներով թեմատիկ վեբ կայք, որի առարկայական ուղղությունը 
+անձնական նպա-
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 14--15
+\TU/Sylfaen(1)/m/n/12 են նպատակադրման, թվային արտադրողականության, օգտագործման հ
+արմարավե-
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 14--15
+\TU/Sylfaen(1)/m/n/12 տության և ժամանակակից վեբ ծրագրավորման սկզբունքները, ապա 
+դրանց հիման
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[]\TU/Sylfaen(1)/m/n/12 գնահատել թեմատիկ վեբ կայքերի, անձնական նպատակների հետևմ
+ան և
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 19--20
+\TU/Sylfaen(1)/m/n/12 արտադրողականության վերաբերյալ գիտական մոտեցումները՝ առանձ
+նացնե-
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 21--22
+[]\TU/Sylfaen(1)/m/n/12 մշակել անձնական նպատակների կառավարման թեմատիկ վեբ կայքի
+ կա-
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 22--23
+\TU/Sylfaen(1)/m/n/12 ֆունկցիոնալ ամբողջականությունը և համապատասխանությունը օգտ
+ատիրոջ
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 26--27
 []\TU/Sylfaen(1)/m/n/12 Աշխատանքի կառուցվածքը կազմված է հինգ գլուխներից, օգտագո
 րծված գրա-
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 24--25
+Underfull \hbox (badness 5985) in paragraph at lines 26--27
 \TU/Sylfaen(1)/m/n/12 կանության ցանկից և հավելվածներից։ Առաջին գլխում ներկայացվ
 ում են թեմա-
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 24--25
+Underfull \hbox (badness 3068) in paragraph at lines 26--27
 \TU/Sylfaen(1)/m/n/12 յի արդիականությունը, հետազոտական խնդիրը, աշխատանքի նպատակ
 ը, չափելի
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 24--25
-\TU/Sylfaen(1)/m/n/12 նության վերլուծությունը՝ նպատակադրման տեսությունները, անձ
-նական արտադրո-
+Underfull \hbox (badness 1043) in paragraph at lines 26--27
+\TU/Sylfaen(1)/m/n/12 կից վեբ տեխնոլոգիաները և նմանատիպ հավելվածների համեմատութ
+յունը։ Երրորդ
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 24--25
-\TU/Sylfaen(1)/m/n/12 ղականության հետազոտությունները, թվային բարեկեցության մոտե
-ցումները և նմա-
+Underfull \hbox (badness 1430) in paragraph at lines 26--27
+\TU/Sylfaen(1)/m/n/12 րը, որոնք կիրառվել են թեմատիկ վեբ կայքի նախագծման և մշակմ
+ան ընթացքում։
  []
 
-) (./chapters/literature.tex [3]
+
+Underfull \hbox (badness 3861) in paragraph at lines 26--27
+\TU/Sylfaen(1)/m/n/12 Չորրորդ գլխում ներկայացվում են աշխատանքի հիմնական արդյուն
+քները՝ թեմա-
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 26--27
+\TU/Sylfaen(1)/m/n/12 տիկ վեբ կայքի ճարտարապետությունը, տվյալների բազայի կառուց
+վածքը, հիմնա-
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 26--27
+\TU/Sylfaen(1)/m/n/12 ջարկությունները, որոնք կապվում են աշխատանքի նպատակին և առ
+աջադրված
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 26--27
+\TU/Sylfaen(1)/m/n/12 նապատկերներ, սխեմաներ, տվյալների մոդելի պատկերներ և անհրա
+ժեշտության
+ []
+
+[3]) (./chapters/literature.tex [4]
 Գլուխ 2.
 
+Underfull \hbox (badness 1194) in paragraph at lines 6--7
+[]\TU/Sylfaen(1)/m/n/12 Այս գլխի նպատակը գրականության և առկա թվային գործիքների 
+վերլուծության
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 6--7
+\TU/Sylfaen(1)/m/n/12 միջոցով նախագծային բացի հիմնավորումն է։ Վերլուծությունը կ
+առուցվում է ութ
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
-\TU/Sylfaen(1)/m/n/12 նպատակադրման տեսություններ, գործող հավելվածների համեմատու
-թյուն, վեբ
+\TU/Sylfaen(1)/m/n/12 ուղղությամբ՝ նպատակադրման տեսություններ, գործող հավելվածն
+երի համեմա-
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 6--7
-\TU/Sylfaen(1)/m/n/12 մշակման մեթոդաբանություններ, ժամանակակից վեբ տեխնոլոգիանե
-ր, արտադրո-
- []
-
-
-Underfull \hbox (badness 2990) in paragraph at lines 6--7
-\TU/Sylfaen(1)/m/n/12 ղականության հավելվածների UX/UI սկզբունքներ, տվյալների բազ
-այի նախագծում,
- []
-
-
-Underfull \hbox (badness 2213) in paragraph at lines 6--7
-\TU/Sylfaen(1)/m/n/12 օգտատիրոջ ներգրավվածություն և մոտիվացիա, ինչպես նաև պատաս
-խանատու և
- []
-
-
-Underfull \hbox (badness 1237) in paragraph at lines 6--7
-\TU/Sylfaen(1)/m/n/12 ընդհանուր շղթային՝ խնդրից դեպի մեթոդ, մեթոդից դեպի եզրակա
-ցություն և առա-
+Underfull \hbox (badness 3965) in paragraph at lines 6--7
+\TU/Sylfaen(1)/m/n/12 նատու և մատչելի դիզայնի չափանիշներ։ Յուրաքանչյուր ենթաբաժ
+ին կապվում է
  []
 
 
@@ -978,12 +1050,12 @@ Underfull \hbox (badness 1584) in paragraph at lines 10--11
 T նպա-
  []
 
-[4
+[5
 
 ]
-Underfull \hbox (badness 1975) in paragraph at lines 12--13
-\TU/Sylfaen(1)/m/n/12 գնահատել, թե արդյոք մշակված համակարգը նվազեցնում է նպատակ
-ների կառա-
+Underfull \hbox (badness 1077) in paragraph at lines 12--13
+\TU/Sylfaen(1)/m/n/12 և սպասվող արդյունք։ Այս տեսանկյունից թեմատիկ վեբ կայքի տվ
+յալների մոդելում
  []
 
 
@@ -998,13 +1070,19 @@ Underfull \hbox (badness 1308) in paragraph at lines 18--19
 ղությունը, իսկ «Key
  []
 
-[5]
+[6]
+Underfull \hbox (badness 1460) in paragraph at lines 22--23
+\TU/Sylfaen(1)/m/n/12 գրանցում է նպատակների վերնագրերը, այն չի համապատասխանում 
+SMART պա-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 26--26
 |\TU/Sylfaen(1)/b/n/12 2.2 Գոյություն ունեցող նպատակների հետևման հավելվածների հ
 ամեմատական
  []
 
-[6]
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 []\TU/Sylfaen(1)/m/n/12 Todoist-ը հիմնականում առաջադրանքների կառավարման համակար
 գ է։ Նրա
@@ -1052,7 +1130,7 @@ Underfull \hbox (badness 1189) in paragraph at lines 32--33
  օգտագործում է RPG
  []
 
-[7]
+[8]
 Underfull \hbox (badness 1117) in paragraph at lines 36--37
 []\TU/Sylfaen(1)/m/n/12 Goals on Track-ը շեշտադրում է SMART և OKR նպատակներ, գո
 րծողությունների
@@ -1236,7 +1314,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 \TU/Sylfaen(1)/m/n/10.95 կառուցվածքային խո-
  []
 
-[8] [9]
+[9]
+Underfull \hbox (badness 2401) in paragraph at lines 62--63
+\TU/Sylfaen(1)/m/n/12 Նպատակների հետևման թեմատիկ վեբ կայքը կապված է օգտատիրոջ ա
+նձնական
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 62--63
+\TU/Sylfaen(1)/m/n/12 վարքագծի հետ, հետևաբար այն դժվար է նախագծել մեկանգամյա, ա
+մբողջությամբ
+ []
+
+[10]
 Underfull \hbox (badness 3168) in paragraph at lines 68--69
 \TU/Sylfaen(1)/m/n/12 և երբեմն ծանր գործիքների առկայությունը, մեթոդականորեն լու
 ծվում է փուլային
@@ -1248,31 +1338,67 @@ Underfull \hbox (badness 1286) in paragraph at lines 70--71
 ին առաջնա-
  []
 
-
-Underfull \hbox (badness 1019) in paragraph at lines 74--75
-\TU/Sylfaen(1)/m/n/12 հանջի՝ հասանելիություն տարբեր սարքերից, լիարժեք full-stac
-k հնարավորություն և
- []
-
-[10]
-Underfull \hbox (badness 2359) in paragraph at lines 80--81
-\TU/Sylfaen(1)/m/n/12 վելվածը միայն mobile native լինի, այն կարող է սահմանափակվ
-ել մեկ էկոհամա-
- []
-
-
-Underfull \hbox (badness 1748) in paragraph at lines 84--85
-\TU/Sylfaen(1)/m/n/12 պետք է բաժանի server-side և client-side պատասխանատվությու
-նները։ Օգտատիրոջ
- []
-
 [11]
-Underfull \hbox (badness 5741) in paragraph at lines 96--97
-\TU/Sylfaen(1)/m/n/12 Այդ պատճառով նախագծվող հավելվածում պետք է կիրառվեն հստակ 
-տեսողա-
+Underfull \hbox (badness 1668) in paragraph at lines 84--85
+[]\TU/Sylfaen(1)/m/n/12 Նույն տրամաբանությամբ, թեմատիկ վեբ կայքի տեխնոլոգիական 
+ճարտարապե-
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 84--85
+\TU/Sylfaen(1)/m/n/12 րը պետք է գտնվեն սերվերային շերտում, քանի որ դրանք կապված
+ են տվյալների
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 84--85
+\TU/Sylfaen(1)/m/n/12 տեխնիկական որոշում է, այլև հետազոտական եզրակացություն. ան
+ձնական նպա-
  []
 
 [12]
+Underfull \hbox (badness 1205) in paragraph at lines 88--89
+\TU/Sylfaen(1)/m/n/12 Արտադրողականության թեմատիկ վեբ կայքերի UX/UI դիզայնը պետք
+ է լինի ոչ թե
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 92--93
+[]\TU/Sylfaen(1)/m/n/12 UX/UI-ի տեսանկյունից մշակվող թեմատիկ վեբ կայքի հիմնական
+ սկզբունքները
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 92--93
+\TU/Sylfaen(1)/m/n/12 պետք է լինեն հետևյալը։ Առաջինը՝ նպատակների ցանկը պետք է հ
+եշտ սկանա-
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 92--93
+\TU/Sylfaen(1)/m/n/12 վորվի՝ վերնագիր, կատեգորիա, վերջնաժամկետ, կարգավիճակ և pr
+ogress indicator։
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 92--93
+\TU/Sylfaen(1)/m/n/12 պատմություն և վերլուծություն մեկ տրամաբանական հոսքով։ Չոր
+րորդը՝ dashboard-
+ []
+
+[13]
+Underfull \hbox (badness 1910) in paragraph at lines 96--97
+[]\TU/Sylfaen(1)/m/n/12 Արտադրողականության թեմատիկ վեբ կայքի միջերեսում կարևոր 
+է նաև տեղե-
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 96--97
+\TU/Sylfaen(1)/m/n/12 վում է նույն տեսողական ուժը, ինչ հիմնական գործողությունը,
+ ապա ինտերֆեյսը
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 98--99
 []\TU/Sylfaen(1)/m/n/12 Սխալների կանխարգելումը ևս արտադրողականության համակարգի 
 կարևոր
@@ -1291,24 +1417,36 @@ Underfull \hbox (badness 5050) in paragraph at lines 100--100
  []
 
 
+Underfull \hbox (badness 1270) in paragraph at lines 102--103
+\TU/Sylfaen(1)/m/n/12 տակ, առաջընթացի պատմություն և վերլուծություն, ապա տվյալնե
+րի մոդելը պետք
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 102--103
+\TU/Sylfaen(1)/m/n/12 սուբյեկտների և կապերի, որպեսզի նվազեցվի ավելորդ կրկնությո
+ւնը և պահպանվի
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 102--103
+\TU/Sylfaen(1)/m/n/12 րի ամբողջականության և հարցումների արդյունավետության ապահո
+վման միջոցներ
+ []
+
+
 Underfull \hbox (badness 3375) in paragraph at lines 104--105
 []\TU/Sylfaen(1)/m/n/12 Այս նախագծում հիմնական սուբյեկտներն են User, Goal, Mile
 stone, Category և
  []
 
-[13]
-Underfull \hbox (badness 1337) in paragraph at lines 108--109
-[]\TU/Sylfaen(1)/m/n/12 Տվյալների բազայի նախագծման հիմնական եզրակացությունն այն
- է, որ անձնա-
- []
-
-
+[14]
 Underfull \hbox (badness 2035) in paragraph at lines 110--111
 \TU/Sylfaen(1)/m/n/12 ում պահել վերջին հաշվարկված progress արժեքը արագ ցուցադրմ
 ան համար, իսկ
  []
 
-[14]
+[15]
 Underfull \hbox (badness 1221) in paragraph at lines 118--119
 \TU/Sylfaen(1)/m/n/12 կանի systematic review-ը ուսումնասիրում է behavior change
  technique-ների և mobile
@@ -1320,65 +1458,41 @@ Underfull \hbox (badness 1502) in paragraph at lines 118--119
 թյան կարևոր բա-
  []
 
-
-Underfull \hbox (badness 5245) in paragraph at lines 120--121
-\TU/Sylfaen(1)/m/n/12 ները և progress graph-երը օգնում են օգտատիրոջը տեսնել շար
-ժը և պահպանել
- []
-
-
-Underfull \hbox (badness 1735) in paragraph at lines 124--125
-\TU/Sylfaen(1)/m/n/12 որպես ինքնակարգավորման աջակցություն։ Մշակվող հավելվածի մե
-թոդական պա-
- []
-
-
-Underfull \hbox (badness 4608) in paragraph at lines 124--125
-\TU/Sylfaen(1)/m/n/12 հանջներն են՝ առաջընթացի տեսանելի պատմություն, չափավոր str
-eak ցուցիչներ,
- []
-
-[15]
+[16]
 Underfull \hbox (badness 3503) in paragraph at lines 132--133
 []\TU/Sylfaen(1)/m/n/12 Պատասխանատու դիզայնը նաև պահանջում է, որ բովանդակությու
 նը չկորցնի
  []
 
-
-Underfull \hbox (badness 2856) in paragraph at lines 134--135
-[]\TU/Sylfaen(1)/m/n/12 Մատչելիության տեսանկյունից կարևոր է WCAG 2.2 ստանդարտը,
- որը W3C-ի
+[17]
+Underfull \hbox (badness 2027) in paragraph at lines 134--135
+\TU/Sylfaen(1)/m/n/12 թեմատիկ վեբ կայքում այս սկզբունքները պահանջում են բավարար
+ գունային հա-
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 134--135
-\TU/Sylfaen(1)/m/n/12 կողմից հրապարակվել է որպես Recommendation 2023 թվականի հո
-կտեմբերի 5-ին
- []
-
-[16]
 Underfull \hbox (badness 2478) in paragraph at lines 136--137
 []\TU/Sylfaen(1)/m/n/12 Mobile-responsive և accessible դիզայնը կապվում է աշխատա
 նքի հետազոտական
  []
 
-
+[18]
 Underfull \hbox (badness 1142) in paragraph at lines 144--145
 \TU/Sylfaen(1)/m/n/12 Development Group, []2026a[][]; Prisma, []2026a[])։ Ներգր
 ավվածության հետազոտությունները
  []
 
-[17]) (./chapters/methods.tex [18]
+) (./chapters/methods.tex [19]
 Գլուխ 3.
-) (./chapters/results.tex [19
+) (./chapters/results.tex [20
 
 ]
 Գլուխ 4.
-) (./chapters/conclusions.tex [20
+) (./chapters/conclusions.tex [21
 
 ]
 Գլուխ 5.
-) [21
+) [22
 
 ]
 
@@ -1409,7 +1523,7 @@ Overfull \hbox (24.03537pt too wide) in paragraph at lines 112--112
 ge App: Promoting Self-Determination
  []
 
-[22
+[23
 
 
 ]
@@ -1430,7 +1544,7 @@ Overfull \hbox (14.07002pt too wide) in paragraph at lines 112--112
 Content Accessibility Guidelines (WCAG)
  []
 
-[23] (./main.aux)
+[24] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -1440,18 +1554,18 @@ L3 programming layer <2026-01-19>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AFF142FBEFEB606BFF863D58B40E9C26;5890.
+(rerunfilecheck)             Checksum: 9B9A580F8F7DDCACA1815A9E1B2E5086;5970.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21169 strings out of 468168
- 431057 string characters out of 5432815
- 1455612 words of memory out of 5000000
- 49670 multiletter control sequences out of 15000+600000
- 631877 words of font info for 71 fonts, out of 8000000 for 9000
+ 21173 strings out of 468168
+ 431264 string characters out of 5432815
+ 1456637 words of memory out of 5000000
+ 49672 multiletter control sequences out of 15000+600000
+ 631893 words of font info for 73 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,12n,93p,1656b,5619s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,14n,93p,1734b,5619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (25 pages).
+Output written on main.pdf (26 pages).
