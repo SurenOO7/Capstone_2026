@@ -1,0 +1,29 @@
+flowchart TB
+  subgraph Desktop["Desktop layout"]
+    D1["Fixed sidebar navigation"]
+    D2["Top bar"]
+    D3["Main content area"]
+    D4["Dashboard widgets / page-specific content"]
+    D1 --> D3
+    D2 --> D3
+    D3 --> D4
+  end
+
+  subgraph Mobile["Mobile layout"]
+    M1["Compact header"]
+    M2["Horizontal icon navigation"]
+    M3["Single-column content"]
+    M4["Forms and cards stack vertically"]
+    M1 --> M2
+    M2 --> M3
+    M3 --> M4
+  end
+
+  subgraph Pages["Planned key pages"]
+    P1["/dashboard: statistics and activity"]
+    P2["/goals: goal list and filters"]
+    P3["/goals/new: creation form"]
+    P4["/goals/[id]: details, milestones, progress"]
+    P5["/analytics: charts"]
+    P6["/settings: account and preferences"]
+  end

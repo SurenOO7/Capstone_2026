@@ -1,0 +1,24 @@
+flowchart TD
+  Browser["Browser / mobile viewport"]
+  AppRouter["Next.js App Router"]
+  PublicRoutes["Public routes: /, /login"]
+  ProtectedRoutes["Protected routes: /dashboard, /goals, /analytics, /settings"]
+  Proxy["Route protection: src/proxy.ts"]
+  Auth["Auth.js v5 config: src/lib/auth.ts"]
+  Providers["Google, GitHub, Credentials"]
+  ServerActions["Feature Server Actions"]
+  RouteHandlers["Route Handlers: /api/auth/* and future integration APIs"]
+  Prisma["Prisma Client"]
+  Postgres["PostgreSQL Docker service"]
+
+  Browser --> AppRouter
+  AppRouter --> PublicRoutes
+  AppRouter --> Proxy
+  Proxy --> ProtectedRoutes
+  Proxy --> Auth
+  Auth --> Providers
+  ProtectedRoutes --> ServerActions
+  RouteHandlers --> Auth
+  ServerActions --> Prisma
+  Auth --> Prisma
+  Prisma --> Postgres

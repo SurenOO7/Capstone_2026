@@ -1,0 +1,93 @@
+erDiagram
+  User ||--o{ Account : authenticates_with
+  User ||--o{ Session : owns
+  User ||--o{ Category : organizes
+  User ||--o{ Goal : creates
+  Category ||--o{ Goal : groups
+  Goal ||--o{ Milestone : breaks_into
+  Goal ||--o{ ProgressLog : records
+
+  User {
+    string id PK
+    string name
+    string email UK
+    datetime emailVerified
+    string image
+    string passwordHash
+    datetime createdAt
+    datetime updatedAt
+  }
+
+  Account {
+    string id PK
+    string userId FK
+    string type
+    string provider
+    string providerAccountId
+    text refresh_token
+    text access_token
+    int expires_at
+    string token_type
+    string scope
+    text id_token
+    string session_state
+  }
+
+  Session {
+    string id PK
+    string sessionToken UK
+    string userId FK
+    datetime expires
+  }
+
+  VerificationToken {
+    string identifier
+    string token
+    datetime expires
+  }
+
+  Category {
+    string id PK
+    string name
+    string color
+    string icon
+    string userId FK
+    datetime createdAt
+    datetime updatedAt
+  }
+
+  Goal {
+    string id PK
+    string title
+    text description
+    string categoryId FK
+    GoalPriority priority
+    datetime deadline
+    GoalStatus status
+    float targetValue
+    float currentValue
+    string unit
+    string userId FK
+    datetime createdAt
+    datetime updatedAt
+  }
+
+  Milestone {
+    string id PK
+    string title
+    boolean completed
+    datetime dueDate
+    string goalId FK
+    int order
+    datetime createdAt
+    datetime updatedAt
+  }
+
+  ProgressLog {
+    string id PK
+    string goalId FK
+    float value
+    text note
+    datetime date
+    datetime createdAt
+  }

@@ -18,9 +18,11 @@ services:
     restart: unless-stopped
     ports:
       - "3000:3000"
+    env_file:
+      - ./app/.env
     environment:
       DATABASE_URL: postgresql://capstone:capstone@db:5432/capstone_db
-      NEXTAUTH_SECRET: change-me-in-production
+      AUTH_URL: http://localhost:3000
       NEXTAUTH_URL: http://localhost:3000
     depends_on:
       - db

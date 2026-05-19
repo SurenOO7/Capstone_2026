@@ -1,0 +1,15 @@
+flowchart LR
+  Visitor["Visitor opens app"] --> Login["Login page"]
+  Login --> OAuth["Google or GitHub OAuth"]
+  Login --> Credentials["Credentials sign-in"]
+  OAuth --> Dashboard["Dashboard"]
+  Credentials --> Dashboard
+  Dashboard --> Goals["Goals list"]
+  Goals --> NewGoal["Create goal"]
+  Goals --> GoalDetail["Goal detail"]
+  GoalDetail --> Milestones["Manage milestones"]
+  GoalDetail --> Progress["Log progress"]
+  Dashboard --> Analytics["Analytics"]
+  Dashboard --> Settings["Settings"]
+  Analytics --> Dashboard
+  Settings --> Dashboard

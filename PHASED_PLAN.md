@@ -87,27 +87,27 @@ Source requirements:
 - [x] ProgressLog model (goalId FK, value, note, date)
 - [x] Define relations, indexes, and constraints in Prisma schema
 - [x] Prisma client generated
-- [ ] Create initial migration with `prisma migrate dev`
-- [ ] Design ER diagram for the paper
+- [x] Create initial migration with `prisma migrate dev`
+- [x] Design ER diagram for the paper
 
 ### 3.2 UI/UX Design
-- [ ] Wireframes for key pages (dashboard, goal detail, create goal, analytics)
-- [ ] Color scheme and design system setup with shadcn/ui
-- [ ] Responsive layout planning (mobile-first)
-- [ ] User flow diagrams
+- [x] Wireframes for key pages (dashboard, goal detail, create goal, analytics)
+- [x] Color scheme and design system setup with shadcn/ui
+- [x] Responsive layout planning (mobile-first)
+- [x] User flow diagrams
 
 ### 3.3 App Architecture
 - [x] Next.js App Router page structure
 - [x] Prisma client setup and database connection (app/src/lib/db.ts)
-- [ ] Auth.js v5 configuration (Google + GitHub + credentials)
-- [ ] API route design
-- [ ] State management approach
+- [x] Auth.js v5 configuration (Google + GitHub + credentials)
+- [x] API route design
+- [x] State management approach
 
 ### Deliverables
-- Database schema (Prisma models + ER diagram)
-- Wireframes / UI mockups
-- Architecture diagram
-- All design artifacts saved for paper appendices
+- [x] Database schema (Prisma models + ER diagram)
+- [x] Wireframes / UI mockups
+- [x] Architecture diagram
+- [x] All design artifacts saved for paper appendices
 
 ---
 
