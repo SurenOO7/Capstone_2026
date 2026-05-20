@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {2.2}Գոյություն ունեցող նպատակների հետևման հավելվածների համեմատական վերլուծություն}{7}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Թեմատիկ վեբ կայքերի մշակման մեթոդաբանություններ}{10}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Ժամանակակից վեբ տեխնոլոգիաներ}{11}{section.2.4}%
-\contentsline {section}{\numberline {2.5}UX/UI դիզայնի սկզբունքներ արտադրողականության թեմատիկ վեբ կայքերի համար}{13}{section.2.5}%
+\contentsline {section}{\numberline {2.5}Նպատակների հետևման կայքի UX/UI նախագծման սկզբունքներ}{13}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Տվյալների բազայի նախագծման օրինաչափություններ նպատակների և առաջադրանքների համակարգերում}{14}{section.2.6}%
 \contentsline {section}{\numberline {2.7}Օգտատիրոջ ներգրավվածություն և մոտիվացիա}{16}{section.2.7}%
 \contentsline {section}{\numberline {2.8}Mobile-responsive դիզայն և մատչելիության չափանիշներ}{17}{section.2.8}%
@@ -22,4 +22,5 @@
 \contentsline {section}{\numberline {4.5}Տեխնիկական գնահատում}{28}{section.4.5}%
 \contentsline {section}{\numberline {4.6}Քննարկում}{29}{section.4.6}%
 \contentsline {chapter}{\numberline {5}ԵԶՐԱԿԱՑՈՒԹՅՈՒՆՆԵՐ ԵՎ ԱՌԱՋԱՐԿՈՒԹՅՈՒՆՆԵՐ}{31}{chapter.5}%
-\contentsline {chapter}{ՀԱՎԵԼՎԱԾ 1. ՀԱՎԵԼՎԱԾԻ ԷԿՐԱՆԱՊԱՏԿԵՐՆԵՐ}{34}{chapter*.2}%
+\contentsline {chapter}{ՀԱՎԵԼՎԱԾ 1. ՀԱՎԵԼՎԱԾԻ ԷԿՐԱՆԱՊԱՏԿԵՐՆԵՐ}{36}{chapter*.2}%
+\contentsline {chapter}{ՀԱՎԵԼՎԱԾ 2. ՆԱԽԱԳԾԱՅԻՆ ԵՎ ՃԱՐՏԱՐԱՊԵՏԱԿԱՆ ՆՅՈՒԹԵՐ}{42}{chapter*.3}%

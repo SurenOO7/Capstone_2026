@@ -216,25 +216,25 @@ Source requirements:
 ## Phase 8: Paper — Conclusions & Final Assembly (Week 9-10)
 
 ### 8.1 Paper: Chapter 5 — Conclusions & Recommendations (Եզրակացություններ և առաջարկություններ — 2-3 pages)
-- [ ] Summary of findings linked to each objective from Introduction
-- [ ] At least 2 evidence-based recommendations
-- [ ] Limitations of the research
-- [ ] Future development directions
-- [ ] Maintain Problem→Method→Conclusion→Recommendation chain
+- [x] Summary of findings linked to each objective from Introduction
+- [x] At least 2 evidence-based recommendations
+- [x] Limitations of the research
+- [x] Future development directions
+- [x] Maintain Problem→Method→Conclusion→Recommendation chain
 
 ### 8.2 Paper Assembly
-- [ ] Title page (ԵՄՀ format)
-- [ ] Table of contents (auto-generated from LaTeX)
-- [ ] Verify all cross-references and citations
-- [ ] Verify page counts per section
-- [ ] Complete bibliography check (APA format, min 10 sources)
-- [ ] Number and organize all appendices
-- [ ] Final formatting check (Sylfaen, margins, spacing, page numbers)
-- [ ] Proofread Armenian text
+- [x] Title page (ԵՄՀ format)
+- [x] Table of contents (auto-generated from LaTeX)
+- [x] Verify all cross-references and citations
+- [x] Verify page counts per section
+- [x] Complete bibliography check (APA format, min 10 sources)
+- [x] Number and organize all appendices
+- [x] Final formatting check (Sylfaen, margins, spacing, page numbers)
+- [x] Proofread Armenian text
 
 ### 8.3 Defense Preparation
-- [ ] Create presentation (15 minutes max)
-- [ ] Prepare for Q&A (anticipate committee questions)
+- [x] Create presentation (15 minutes max)
+- [x] Prepare for Q&A (anticipate committee questions)
 - [ ] Practice presentation
 
 ### Deliverables

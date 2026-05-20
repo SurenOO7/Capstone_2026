@@ -1,0 +1,143 @@
+\documentclass[12pt,aspectratio=169]{beamer}
+
+\usepackage{fontspec}
+\setmainfont{Sylfaen}[
+  Path=/Users/surenarzumanyan/Library/Fonts/,
+  Extension=.ttf,
+  UprightFont=sylfaen,
+  AutoFakeBold=2.2
+]
+\setsansfont{Sylfaen}[
+  Path=/Users/surenarzumanyan/Library/Fonts/,
+  Extension=.ttf,
+  UprightFont=sylfaen,
+  AutoFakeBold=2.2
+]
+\usepackage{polyglossia}
+\setmainlanguage{armenian}
+\newfontfamily\armenianfont{Sylfaen}[
+  Script=Armenian,
+  Path=/Users/surenarzumanyan/Library/Fonts/,
+  Extension=.ttf,
+  UprightFont=sylfaen,
+  AutoFakeBold=2.2
+]
+\newfontfamily\armenianfontsf{Sylfaen}[
+  Script=Armenian,
+  Path=/Users/surenarzumanyan/Library/Fonts/,
+  Extension=.ttf,
+  UprightFont=sylfaen,
+  AutoFakeBold=2.2
+]
+\usetheme{Madrid}
+\usecolortheme{default}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}[frame number]
+
+\title{Թեմատիկ վեբ կայքի ստեղծում առաջատար վեբ ծրագրավորմամբ}
+\subtitle{Անձնական նպատակների հետևման վեբ հարթակ}
+\author{Սուրեն Արզումանյան}
+\institute{Եվրասիա միջազգային համալսարան\\Կառավարման և տեղեկատվական տեխնոլոգիաների ամբիոն}
+\date{Երևան, 2026}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}{Թեմայի արդիականությունը}
+  \begin{itemize}
+    \item Անձնական նպատակների կառավարումը դարձել է կրթական և մասնագիտական ինքնակազմակերպման կարևոր գործիք։
+    \item Օգտատերերը հաճախ օգտագործում են մի քանի տարբեր հավելված՝ նպատակ, առաջադրանք, սովորություն և վերլուծություն կառավարելու համար։
+    \item Առաջատար վեբ ծրագրավորումը հնարավորություն է տալիս այդ գործառույթները միավորել մեկ պաշտպանված և հարմար միջավայրում։
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Հետազոտական խնդիրը և նպատակը}
+  \textbf{Խնդիր.} Նպատակների կառավարումը մասնատված է տարբեր գործիքների միջև, իսկ ամբողջական լուծումները հաճախ կամ բարդ են, կամ սահմանափակ։
+
+  \vspace{0.5cm}
+  \textbf{Նպատակ.} Մշակել առաջատար վեբ ծրագրավորման մոտեցումներով թեմատիկ վեբ կայք՝ անձնական նպատակների սահմանման, հետևման և վերլուծության համար։
+\end{frame}
+
+\begin{frame}{Առաջադրված խնդիրները}
+  \begin{enumerate}
+    \item Գնահատել նպատակադրման և արտադրողականության գիտական մոտեցումները։
+    \item Համեմատել գործող նպատակների կառավարման թվային լուծումները։
+    \item Մշակել կայքի կառուցվածքը, տվյալների մոդելը և հիմնական գործառույթները։
+    \item Գնահատել օգտագործման հարմարավետությունն ու ֆունկցիոնալ ամբողջականությունը։
+    \item Ապացուցել, որ ինտեգրված լուծումը նվազեցնում է կառավարման մասնատվածությունը։
+  \end{enumerate}
+\end{frame}
+
+\begin{frame}{Մեթոդաբանությունը}
+  \begin{itemize}
+    \item Գրականության որակական վերլուծություն՝ SMART, Goal Setting Theory, OKR, UX և web technology աղբյուրներով։
+    \item Գործող լուծումների համեմատություն՝ Todoist, Habitica, Strides և Goals on Track։
+    \item Կիրառական մշակում՝ իտերատիվ full-stack մոտեցմամբ։
+    \item Ֆունկցիոնալ, responsive և կառուցվածքային գնահատում։
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Տեխնոլոգիական լուծումը}
+  \begin{itemize}
+    \item Next.js 15 App Router և TypeScript՝ full-stack կառուցվածքի համար։
+    \item PostgreSQL և Prisma՝ հարաբերական, type-safe տվյալների մոդելի համար։
+    \item Auth.js v5՝ Google և email/password նույնականացման համար։
+    \item Tailwind CSS, shadcn/ui և Recharts՝ responsive միջերեսի և վերլուծական գրաֆիկների համար։
+    \item Docker Compose՝ կրկնելի տեղակայման միջավայրի համար։
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Մշակված համակարգի հիմնական գործառույթները}
+  \begin{itemize}
+    \item Նպատակների ստեղծում, խմբագրում, ջնջում, ֆիլտրում և որոնում։
+    \item Ենթանպատակներ, վերջնաժամկետներ, առաջնահերթություններ և կատեգորիաներ։
+    \item Առաջընթացի գրանցում և ProgressLog պատմություն։
+    \item Dashboard՝ ընդհանուր վիճակագրությամբ և մոտակա վերջնաժամկետներով։
+    \item Analytics էջ՝ completion rate, streak և category breakdown ցուցանիշներով։
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Հիմնական արդյունքները}
+  \begin{itemize}
+    \item Ստեղծվել է ամբողջական անձնական նպատակների հետևման թեմատիկ վեբ կայք։
+    \item Տվյալների մոդելը կապում է օգտատիրոջը, նպատակները, կատեգորիաները, ենթանպատակները և առաջընթացի պատմությունը։
+    \item Համակարգը միավորում է պլանավորումը, գործողության հետևումը և վերլուծությունը մեկ միջավայրում։
+    \item Միջերեսը փորձարկվել է desktop և mobile ներկայացումներով։
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Եզրակացություններ}
+  \begin{itemize}
+    \item Գիտական և գործնական աղբյուրները հաստատում են չափելի նպատակների, փուլային բաժանման և feedback-ի կարևորությունը։
+    \item Գործող գործիքների համեմատությունը հիմնավորեց ինտեգրված լուծման անհրաժեշտությունը։
+    \item Next.js, Prisma, PostgreSQL և Auth.js համադրությունը բավարար է անվտանգ և ընդլայնելի full-stack կայք ստեղծելու համար։
+    \item Առաջարկվող լուծումը նվազեցնում է նպատակների կառավարման մասնատվածությունը։
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Առաջարկություններ}
+  \begin{itemize}
+    \item Ավելացնել անհատականացված շաբաթական վերանայման մեխանիզմ։
+    \item Կատարել usability testing իրական օգտատերերի՝ ուսանողների և երիտասարդ մասնագետների մասնակցությամբ։
+    \item Ավելացնել կարգավորվող push notification-ներ և calendar integration։
+    \item Զարգացնել Progressive Web App կամ native mobile տարբերակ։
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Սահմանափակումներ և հետագա զարգացում}
+  \begin{itemize}
+    \item Չկա լայնածավալ իրական օգտատերային փորձարկում։
+    \item Չկան թիմային նպատակներ և native mobile հավելված։
+    \item Հետագա փուլերում հնարավոր է ավելացնել AI առաջարկություններ, mentor-based նպատակներ և WCAG 2.2 audit։
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Շնորհակալություն}
+  \centering
+  \Large Հարցեր
+\end{frame}
+
+\end{document}

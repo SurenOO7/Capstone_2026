@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  20 MAY 2026 04:54
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  20 MAY 2026 12:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -872,13 +872,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 ])
-(./main.toc
-Underfull \hbox (badness 1147) in paragraph at lines 8--8
- [][] [][]\TU/Sylfaen(1)/m/n/12 UX/UI դիզայնի սկզբունքներ արտադրողականության թե
-մատիկ վեբ 
- []
-
-)
+(./main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1755,9 +1749,93 @@ Underfull \hbox (badness 1033) in paragraph at lines 101--102
 
 ) (./chapters/conclusions.tex [30]
 Գլուխ 5.
-) [31
+
+Underfull \hbox (badness 3838) in paragraph at lines 4--5
+\TU/Sylfaen(1)/m/n/12 մասնատվածությունը մեծացնում է ճանաչողական ծանրաբեռնվածութ
+յունը և նվա-
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 4--5
+\TU/Sylfaen(1)/m/n/12 զեցնում է երկարաժամկետ նպատակների նկատմամբ հետևողականությ
+ունը։ Կա-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\TU/Sylfaen(1)/m/n/12 Առաջին խնդիրը գիտական մոտեցումների գնահատումն էր։ Գրակա
+նության
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 6--7
+\TU/Sylfaen(1)/m/n/12 վերլուծության արդյունքում պարզվեց, որ անձնական նպատակների
+ արդյունավետ
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 6--7
+\TU/Sylfaen(1)/m/n/12 այլև չափելի և վերահսկելի։ Ներգրավվածության վերաբերյալ աղբ
+յուրները հաստա-
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 6--7
+\TU/Sylfaen(1)/m/n/12 ենթանպատակ, առաջընթացի պատմություն, dashboard և analytics
+ գործառույթների
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 10--11
+[]\TU/Sylfaen(1)/m/n/12 Երրորդ խնդիրը կայքի կառուցվածքի, տվյալների մոդելի և հիմ
+նական գործա-
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 10--11
+\TU/Sylfaen(1)/m/n/12 Prisma, PostgreSQL, Auth.js v5, Tailwind CSS, shadcn/ui, 
+Recharts և Docker տեխնոլո-
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 10--11
+\TU/Sylfaen(1)/m/n/12 գիաներով։ Մշակված տվյալների մոդելը ներառում է User, Categ
+ory, Goal, Milestone
+ []
+
+[31
 
 ]
+Underfull \hbox (badness 1472) in paragraph at lines 14--15
+[]\TU/Sylfaen(1)/m/n/12 Հինգերորդ խնդիրը առաջարկվող լուծման միջոցով նպատակների 
+կառավարման
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 14--15
+\TU/Sylfaen(1)/m/n/12 պահանջվող խնդրից դեպի մեթոդ, արդյունք, եզրակացություն և ա
+ռաջարկություն
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[]\TU/Sylfaen(1)/m/n/12 Երկրորդ՝ անհրաժեշտ է ընդլայնել usability testing-ը իրակ
+ան օգտատերերի
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 18--19
+\TU/Sylfaen(1)/m/n/12 ավելացնում ենթանպատակ, գրանցում առաջընթաց և գտնում analyt
+ics տվյալները։
+ []
+
+[32]
+Underfull \hbox (badness 1502) in paragraph at lines 24--25
+[]\TU/Sylfaen(1)/m/n/12 Ապագա զարգացման հիմնական ուղղություններն են՝ native կամ
+ progressive web
+ []
+
+) [33]
 
 LaTeX Font Warning: Font shape `TU/Sylfaen(1)/m/it' undefined
 (Font)              using `TU/Sylfaen(1)/m/n' instead on input line 124.
@@ -1786,7 +1864,7 @@ Overfull \hbox (24.03537pt too wide) in paragraph at lines 124--124
 ge App: Promoting Self-Determination
  []
 
-[32
+[34
 
 
 ]
@@ -1807,10 +1885,10 @@ Overfull \hbox (14.07002pt too wide) in paragraph at lines 124--124
 Content Accessibility Guidelines (WCAG)
  []
 
-(./appendices/app_screenshots.tex [33]
+(./appendices/app_screenshots.tex [35]
 File: figures/screenshots/login-page.png Graphic file (type bmp)
 <figures/screenshots/login-page.png>
- [34
+ [36
 
 
 ]
@@ -1820,33 +1898,33 @@ File: figures/screenshots/dashboard-page.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[35]
+[37]
 File: figures/screenshots/goals-page.png Graphic file (type bmp)
 <figures/screenshots/goals-page.png>
- [36
+ [38
 
 
 ]
 File: figures/screenshots/goal-detail-page.png Graphic file (type bmp)
 <figures/screenshots/goal-detail-page.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
-[]\TU/Sylfaen(1)/m/it/12 Նկար 5.4: []Նպատակի մանրամասների էջը՝ ենթանպատակներով,
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\TU/Sylfaen(1)/m/it/12 Նկար 1.4: []Նպատակի մանրամասների էջը՝ ենթանպատակներով,
  առաջընթացի
  []
 
-[37
+[39
 
 ]
 File: figures/screenshots/analytics-page.png Graphic file (type bmp)
 <figures/screenshots/analytics-page.png>
 
-Underfull \hbox (badness 1259) in paragraph at lines 40--40
-[]\TU/Sylfaen(1)/m/it/12 Նկար 5.5: []Analytics էջը՝ completion rate-ի, streak ց
+Underfull \hbox (badness 1259) in paragraph at lines 42--42
+[]\TU/Sylfaen(1)/m/it/12 Նկար 1.5: []Analytics էջը՝ completion rate-ի, streak ց
 ուցանիշների և կատեգորիաների
  []
 
-[38
+[40
 
 ]
 File: figures/screenshots/dashboard-mobile.png Graphic file (type bmp)
@@ -1855,7 +1933,33 @@ File: figures/screenshots/dashboard-mobile.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [39] (./main.aux)
+) (./appendices/design_artifacts.tex [41]
+File: figures/rendered/app-architecture.pdf Graphic file (type pdf)
+<use figures/rendered/app-architecture.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[42
+
+
+
+] [43]
+File: figures/rendered/er-diagram.pdf Graphic file (type pdf)
+<use figures/rendered/er-diagram.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44]
+File: figures/rendered/user-flow.pdf Graphic file (type pdf)
+<use figures/rendered/user-flow.pdf>
+File: figures/rendered/wireframes.pdf Graphic file (type pdf)
+<use figures/rendered/wireframes.pdf>
+) [45
+
+
+] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -1865,18 +1969,18 @@ L3 programming layer <2026-01-19>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E8E1A06389F13585724F14634B8AC90A;9004.
+(rerunfilecheck)             Checksum: 83CD4905EA1A59381A80A26C8EDE6703;9313.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21273 strings out of 468168
- 434575 string characters out of 5432815
- 1456288 words of memory out of 5000000
- 49757 multiletter control sequences out of 15000+600000
+ 21322 strings out of 468168
+ 436323 string characters out of 5432815
+ 1456985 words of memory out of 5000000
+ 49798 multiletter control sequences out of 15000+600000
  631917 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,14n,93p,1734b,5619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (41 pages).
+Output written on main.pdf (47 pages).
