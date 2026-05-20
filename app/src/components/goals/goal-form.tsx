@@ -9,6 +9,7 @@ import {
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import { MutationForm } from "@/components/ui/mutation-form";
 import { Select } from "@/components/ui/select";
 import { Textarea } from "@/components/ui/textarea";
 import { priorityOptions, statusOptions } from "@/lib/goal-utils";
@@ -48,7 +49,12 @@ export function GoalForm({
             {error}
           </div>
         ) : null}
-        <form action={action} className="grid gap-5">
+        <MutationForm
+          action={action}
+          className="grid gap-5"
+          toastTitle={goal ? "Goal update submitted" : "Goal creation submitted"}
+          toastDescription="Your changes are being saved."
+        >
           <div className="grid gap-5 md:grid-cols-2">
             <div className="space-y-2 md:col-span-2">
               <Label htmlFor="title">Title</Label>
@@ -158,7 +164,7 @@ export function GoalForm({
           <div className="flex flex-col-reverse gap-3 sm:flex-row sm:justify-end">
             <Button type="submit">{submitLabel}</Button>
           </div>
-        </form>
+        </MutationForm>
       </CardContent>
     </Card>
   );

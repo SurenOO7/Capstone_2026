@@ -2,6 +2,7 @@ import { Trash2 } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import { ConfirmDialog } from "@/components/ui/dialog";
+import { MutationForm } from "@/components/ui/mutation-form";
 import { deleteGoal } from "@/app/(protected)/goals/actions";
 
 export function DeleteGoalDialog({
@@ -28,11 +29,15 @@ export function DeleteGoalDialog({
         </Button>
       }
     >
-      <form action={action}>
+      <MutationForm
+        action={action}
+        toastTitle="Goal deletion submitted"
+        toastDescription="The goal and its history are being removed."
+      >
         <Button type="submit" variant="destructive">
           Delete goal
         </Button>
-      </form>
+      </MutationForm>
     </ConfirmDialog>
   );
 }

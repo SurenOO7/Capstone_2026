@@ -8,6 +8,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 
+import { ThemeToggle } from "@/components/ui/theme-toggle";
 import { cn } from "@/lib/utils";
 
 const navigationItems = [
@@ -26,7 +27,7 @@ export function AppShell({
   className?: string;
 }>) {
   return (
-    <div className="min-h-screen bg-background text-foreground">
+    <div className="min-h-screen bg-background text-foreground transition-colors duration-200">
       <aside className="fixed inset-y-0 left-0 hidden w-64 border-r border-border bg-card px-4 py-5 lg:block">
         <Link
           href="/dashboard"
@@ -49,6 +50,10 @@ export function AppShell({
             </Link>
           ))}
         </nav>
+        <div className="absolute bottom-5 left-4 right-4 flex items-center justify-between rounded-md border border-border bg-background p-3">
+          <span className="text-sm font-medium">Theme</span>
+          <ThemeToggle />
+        </div>
       </aside>
 
       <div className="lg:pl-64">
@@ -79,10 +84,16 @@ export function AppShell({
                 </Link>
               ))}
             </nav>
+            <ThemeToggle />
           </div>
         </header>
 
-        <main className={cn("mx-auto w-full max-w-6xl px-4 py-8 lg:px-8", className)}>
+        <main
+          className={cn(
+            "page-transition mx-auto w-full max-w-6xl px-4 py-8 lg:px-8",
+            className,
+          )}
+        >
           {children}
         </main>
       </div>

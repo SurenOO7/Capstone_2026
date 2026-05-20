@@ -13,6 +13,7 @@ import {
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import { MutationForm } from "@/components/ui/mutation-form";
 import { auth } from "@/lib/auth";
 import prisma from "@/lib/db";
 
@@ -106,7 +107,12 @@ export default async function SettingsPage() {
             </CardDescription>
           </CardHeader>
           <CardContent>
-            <form action={updateProfile} className="grid gap-4">
+            <MutationForm
+              action={updateProfile}
+              className="grid gap-4"
+              toastTitle="Profile update submitted"
+              toastDescription="Your profile changes are being saved."
+            >
               <div className="space-y-2">
                 <Label htmlFor="name">Name</Label>
                 <Input
@@ -132,7 +138,7 @@ export default async function SettingsPage() {
               <div>
                 <Button type="submit">Save changes</Button>
               </div>
-            </form>
+            </MutationForm>
           </CardContent>
         </Card>
       </div>

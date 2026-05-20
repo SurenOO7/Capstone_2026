@@ -24,8 +24,10 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import { EmptyState } from "@/components/ui/empty-state";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import { MutationForm } from "@/components/ui/mutation-form";
 import { Progress } from "@/components/ui/progress";
 import { Select } from "@/components/ui/select";
 import { Textarea } from "@/components/ui/textarea";
@@ -165,7 +167,12 @@ export default async function GoalDetailPage({
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-5">
-              <form action={milestoneAction} className="grid gap-3 sm:grid-cols-[1fr_180px_auto]">
+              <MutationForm
+                action={milestoneAction}
+                className="grid gap-3 sm:grid-cols-[1fr_180px_auto]"
+                toastTitle="Milestone creation submitted"
+                toastDescription="The milestone list will refresh after saving."
+              >
                 <div className="space-y-2">
                   <Label htmlFor="milestoneTitle">Milestone</Label>
                   <Input
@@ -185,7 +192,7 @@ export default async function GoalDetailPage({
                     Add
                   </Button>
                 </div>
-              </form>
+              </MutationForm>
 
               {goal.milestones.length ? (
                 <div className="divide-y divide-border rounded-lg border border-border">
@@ -195,12 +202,17 @@ export default async function GoalDetailPage({
                       className="grid gap-3 p-4 sm:grid-cols-[1fr_auto]"
                     >
                       <div className="flex min-w-0 gap-3">
-                        <form
+                        <MutationForm
                           action={toggleMilestone.bind(
                             null,
                             milestone.id,
                             !milestone.completed,
                           )}
+                          toastTitle={
+                            milestone.completed
+                              ? "Milestone reopening submitted"
+                              : "Milestone completion submitted"
+                          }
                         >
                           <Button
                             type="submit"
@@ -218,7 +230,7 @@ export default async function GoalDetailPage({
                               <Circle aria-hidden="true" />
                             )}
                           </Button>
-                        </form>
+                        </MutationForm>
                         <div className="min-w-0 space-y-1">
                           <p
                             className={cn(
@@ -235,7 +247,10 @@ export default async function GoalDetailPage({
                         </div>
                       </div>
                       <div className="flex items-center gap-1">
-                        <form action={moveMilestone.bind(null, milestone.id, "up")}>
+                        <MutationForm
+                          action={moveMilestone.bind(null, milestone.id, "up")}
+                          toastTitle="Milestone reorder submitted"
+                        >
                           <Button
                             type="submit"
                             variant="ghost"
@@ -245,9 +260,10 @@ export default async function GoalDetailPage({
                           >
                             <ArrowUp aria-hidden="true" />
                           </Button>
-                        </form>
-                        <form
+                        </MutationForm>
+                        <MutationForm
                           action={moveMilestone.bind(null, milestone.id, "down")}
+                          toastTitle="Milestone reorder submitted"
                         >
                           <Button
                             type="submit"
@@ -258,8 +274,12 @@ export default async function GoalDetailPage({
                           >
                             <ArrowDown aria-hidden="true" />
                           </Button>
-                        </form>
-                        <form action={deleteMilestone.bind(null, milestone.id)}>
+                        </MutationForm>
+                        <MutationForm
+                          action={deleteMilestone.bind(null, milestone.id)}
+                          toastTitle="Milestone deletion submitted"
+                          toastDescription="The milestone is being removed."
+                        >
                           <Button
                             type="submit"
                             variant="ghost"
@@ -268,15 +288,18 @@ export default async function GoalDetailPage({
                           >
                             <Trash2 aria-hidden="true" />
                           </Button>
-                        </form>
+                        </MutationForm>
                       </div>
                     </div>
                   ))}
                 </div>
               ) : (
-                <div className="rounded-lg border border-dashed border-border p-8 text-center text-sm text-muted-foreground">
-                  Add milestones to turn this goal into concrete steps.
-                </div>
+                <EmptyState
+                  icon={Check}
+                  title="No milestones yet"
+                  description="Add milestones to turn this goal into concrete steps."
+                  className="min-h-52"
+                />
               )}
             </CardContent>
           </Card>
@@ -312,9 +335,12 @@ export default async function GoalDetailPage({
                   ))}
                 </div>
               ) : (
-                <div className="rounded-lg border border-dashed border-border p-8 text-center text-sm text-muted-foreground">
-                  Progress updates will appear here after the first check-in.
-                </div>
+                <EmptyState
+                  icon={Activity}
+                  title="No progress logs yet"
+                  description="Progress updates will appear here after the first check-in."
+                  className="min-h-52"
+                />
               )}
             </CardContent>
           </Card>
@@ -329,7 +355,12 @@ export default async function GoalDetailPage({
               </CardDescription>
             </CardHeader>
             <CardContent>
-              <form action={progressAction} className="space-y-4">
+              <MutationForm
+                action={progressAction}
+                className="space-y-4"
+                toastTitle="Progress update submitted"
+                toastDescription="Your latest check-in is being saved."
+              >
                 <div className="space-y-2">
                   <Label htmlFor="value">
                     Current value{goal.unit ? ` (${goal.unit})` : ""}
@@ -357,7 +388,7 @@ export default async function GoalDetailPage({
                   <Activity aria-hidden="true" />
                   Save progress
                 </Button>
-              </form>
+              </MutationForm>
             </CardContent>
           </Card>
 
@@ -367,7 +398,12 @@ export default async function GoalDetailPage({
               <CardDescription>Move this goal through its lifecycle.</CardDescription>
             </CardHeader>
             <CardContent>
-              <form action={statusAction} className="space-y-3">
+              <MutationForm
+                action={statusAction}
+                className="space-y-3"
+                toastTitle="Status update submitted"
+                toastDescription="The goal lifecycle status is being saved."
+              >
                 <Label htmlFor="status">Goal status</Label>
                 <Select id="status" name="status" defaultValue={goal.status}>
                   {statusOptions.map((status) => (
@@ -379,7 +415,7 @@ export default async function GoalDetailPage({
                 <Button type="submit" variant="secondary" className="w-full">
                   Update status
                 </Button>
-              </form>
+              </MutationForm>
             </CardContent>
           </Card>
 

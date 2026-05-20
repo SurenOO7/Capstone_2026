@@ -18,6 +18,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import { EmptyState } from "@/components/ui/empty-state";
 import { GoalStatus } from "@/generated/prisma/client";
 import { auth } from "@/lib/auth";
 import prisma from "@/lib/db";
@@ -234,9 +235,12 @@ export default async function DashboardPage() {
                 ))}
               </div>
             ) : (
-              <div className="rounded-lg border border-dashed border-border p-8 text-center text-sm text-muted-foreground">
-                Activity will appear after progress updates or completed milestones.
-              </div>
+              <EmptyState
+                icon={Activity}
+                title="No progress logs yet"
+                description="Recent activity will appear after progress updates or completed milestones."
+                className="min-h-52"
+              />
             )}
           </CardContent>
         </Card>
@@ -269,9 +273,12 @@ export default async function DashboardPage() {
                 ))}
               </div>
             ) : (
-              <div className="rounded-lg border border-dashed border-border p-8 text-center text-sm text-muted-foreground">
-                No deadlines in the next week.
-              </div>
+              <EmptyState
+                icon={Clock3}
+                title="No upcoming deadlines"
+                description="Goals due within the next week will show here as reminder cards."
+                className="min-h-52"
+              />
             )}
           </CardContent>
         </Card>

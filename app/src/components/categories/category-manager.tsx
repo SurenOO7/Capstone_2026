@@ -17,6 +17,7 @@ import {
 import { ConfirmDialog } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import { MutationForm } from "@/components/ui/mutation-form";
 
 export function CategoryManager({
   categories,
@@ -32,9 +33,11 @@ export function CategoryManager({
         </CardDescription>
       </CardHeader>
       <CardContent className="space-y-5">
-        <form
+        <MutationForm
           action={createCategory}
           className="grid gap-3 rounded-lg border border-border bg-background p-4 md:grid-cols-[1fr_120px_160px_auto]"
+          toastTitle="Category creation submitted"
+          toastDescription="The category list will refresh after saving."
         >
           <div className="space-y-2">
             <Label htmlFor="categoryName">Name</Label>
@@ -65,7 +68,7 @@ export function CategoryManager({
               Add
             </Button>
           </div>
-        </form>
+        </MutationForm>
 
         {categories.length ? (
           <div className="divide-y divide-border rounded-lg border border-border">
@@ -74,9 +77,11 @@ export function CategoryManager({
                 key={category.id}
                 className="grid gap-3 p-4 md:grid-cols-[1fr_120px_160px_auto_auto]"
               >
-                <form
+                <MutationForm
                   action={updateCategory.bind(null, category.id)}
                   className="contents"
+                  toastTitle="Category update submitted"
+                  toastDescription="The category details are being saved."
                 >
                   <div className="space-y-2">
                     <Label htmlFor={`name-${category.id}`}>Name</Label>
@@ -111,7 +116,7 @@ export function CategoryManager({
                       Save
                     </Button>
                   </div>
-                </form>
+                </MutationForm>
                 <div className="flex items-end">
                   <ConfirmDialog
                     title="Delete category"
@@ -125,11 +130,15 @@ export function CategoryManager({
                       </Button>
                     }
                   >
-                    <form action={deleteCategory.bind(null, category.id)}>
+                    <MutationForm
+                      action={deleteCategory.bind(null, category.id)}
+                      toastTitle="Category deletion submitted"
+                      toastDescription="The category is being removed."
+                    >
                       <Button type="submit" variant="destructive">
                         Delete category
                       </Button>
-                    </form>
+                    </MutationForm>
                   </ConfirmDialog>
                 </div>
               </div>
@@ -140,7 +149,8 @@ export function CategoryManager({
             <span className="mx-auto flex size-10 items-center justify-center rounded-md bg-secondary text-secondary-foreground">
               <Tags className="size-4" aria-hidden="true" />
             </span>
-            <p className="mt-3 text-sm text-muted-foreground">
+            <h3 className="mt-3 font-medium tracking-normal">No categories yet</h3>
+            <p className="mt-2 text-sm text-muted-foreground">
               Add categories to organize goals by life area or project.
             </p>
           </div>
