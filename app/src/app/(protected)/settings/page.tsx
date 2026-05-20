@@ -61,8 +61,8 @@ export default async function SettingsPage() {
         </div>
       </div>
 
-      <div className="grid gap-6 lg:grid-cols-[320px_1fr]">
-        <Card>
+      <div className="grid min-w-0 gap-6 lg:grid-cols-[320px_1fr]">
+        <Card className="min-w-0">
           <CardHeader>
             <CardTitle>Account</CardTitle>
             <CardDescription>Signed-in profile and providers.</CardDescription>
@@ -78,27 +78,29 @@ export default async function SettingsPage() {
                 <p className="truncate font-medium">
                   {user.name ?? "Unnamed user"}
                 </p>
-                <p className="truncate text-sm text-muted-foreground">
+                <p className="break-all text-sm text-muted-foreground">
                   {user.email}
                 </p>
               </div>
             </div>
             <div className="space-y-2 text-sm">
-              <div className="flex items-center gap-2 text-muted-foreground">
+              <div className="flex min-w-0 items-center gap-2 text-muted-foreground">
                 <Mail className="size-4" aria-hidden="true" />
-                {user.email}
+                <span className="min-w-0 break-all">{user.email}</span>
               </div>
-              <div className="flex items-center gap-2 text-muted-foreground">
+              <div className="flex min-w-0 items-center gap-2 text-muted-foreground">
                 <UserRound className="size-4" aria-hidden="true" />
-                {user.accounts.length
-                  ? user.accounts.map((account) => account.provider).join(", ")
-                  : "Credentials"}
+                <span className="min-w-0 break-words">
+                  {user.accounts.length
+                    ? user.accounts.map((account) => account.provider).join(", ")
+                    : "Credentials"}
+                </span>
               </div>
             </div>
           </CardContent>
         </Card>
 
-        <Card>
+        <Card className="min-w-0">
           <CardHeader>
             <CardTitle>Edit profile</CardTitle>
             <CardDescription>

@@ -153,22 +153,22 @@ Source requirements:
 ## Phase 5: Advanced Features & Polish (Week 6-7)
 
 ### 5.1 Analytics Page
-- [ ] Goal completion rate over time
-- [ ] Category-wise performance breakdown
-- [ ] Streak statistics
-- [ ] Monthly/weekly/yearly views
+- [x] Goal completion rate over time
+- [x] Category-wise performance breakdown
+- [x] Streak statistics
+- [x] Monthly/weekly/yearly views
 
 ### 5.2 UI Polish
-- [ ] Dark/light mode toggle
-- [ ] Animations and transitions
-- [ ] Empty states and loading skeletons
-- [ ] Error handling and toast notifications
-- [ ] Mobile responsiveness testing
+- [x] Dark/light mode toggle
+- [x] Animations and transitions
+- [x] Empty states and loading skeletons
+- [x] Error handling and toast notifications
+- [x] Mobile responsiveness testing
 
 ### 5.3 Additional Features
-- [ ] Goal templates (predefined goal structures)
-- [ ] Export data (PDF/CSV)
-- [ ] Notification reminders (deadline approaching)
+- [x] Goal templates (predefined goal structures)
+- [x] Export data (PDF/CSV)
+- [x] Notification reminders (deadline approaching)
 
 ### Deliverables
 - Polished, production-ready application

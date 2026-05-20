@@ -1,5 +1,6 @@
 import {
   Activity,
+  Bell,
   CalendarClock,
   CheckCircle2,
   Clock3,
@@ -22,7 +23,12 @@ import { EmptyState } from "@/components/ui/empty-state";
 import { GoalStatus } from "@/generated/prisma/client";
 import { auth } from "@/lib/auth";
 import prisma from "@/lib/db";
-import { formatDate, formatStatus, isOverdue } from "@/lib/goal-utils";
+import {
+  formatDate,
+  formatStatus,
+  isDeadlineApproaching,
+  isOverdue,
+} from "@/lib/goal-utils";
 
 function statCard(
   title: string,
@@ -171,6 +177,10 @@ export default async function DashboardPage() {
     )
     .sort((a, b) => a.deadline!.getTime() - b.deadline!.getTime())
     .slice(0, 6);
+  const deadlineReminders = goals
+    .filter((goal) => isDeadlineApproaching(goal))
+    .sort((a, b) => a.deadline!.getTime() - b.deadline!.getTime())
+    .slice(0, 3);
 
   return (
     <div className="space-y-8">
@@ -181,6 +191,32 @@ export default async function DashboardPage() {
           Review goal health, recent movement, and deadlines that need attention.
         </p>
       </div>
+
+      {deadlineReminders.length ? (
+        <Card className="border-primary/30 bg-accent">
+          <CardContent className="flex flex-col gap-4 p-5 sm:flex-row sm:items-center sm:justify-between">
+            <div className="flex gap-3">
+              <span className="flex size-10 shrink-0 items-center justify-center rounded-md bg-background text-primary">
+                <Bell className="size-4" aria-hidden="true" />
+              </span>
+              <div className="space-y-1">
+                <p className="font-medium">Deadline reminders</p>
+                <p className="text-sm text-muted-foreground">
+                  {deadlineReminders
+                    .map((goal) => `${goal.title} (${formatDate(goal.deadline)})`)
+                    .join(", ")}
+                </p>
+              </div>
+            </div>
+            <Link
+              href="/goals?sort=deadline"
+              className="text-sm font-medium text-primary hover:underline"
+            >
+              Review deadlines
+            </Link>
+          </CardContent>
+        </Card>
+      ) : null}
 
       <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
         {statCard("Total goals", goals.length, "All tracked goals", Target)}

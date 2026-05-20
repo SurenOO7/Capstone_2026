@@ -27,6 +27,8 @@ export function GoalForm({
   submitLabel,
   showStatus = false,
   error,
+  templateId,
+  defaults,
 }: Readonly<{
   title: string;
   description: string;
@@ -36,6 +38,13 @@ export function GoalForm({
   submitLabel: string;
   showStatus?: boolean;
   error?: string;
+  templateId?: string;
+  defaults?: Partial<
+    Pick<
+      Goal,
+      "title" | "description" | "priority" | "deadline" | "targetValue" | "unit"
+    >
+  >;
 }>) {
   return (
     <Card>
@@ -55,13 +64,16 @@ export function GoalForm({
           toastTitle={goal ? "Goal update submitted" : "Goal creation submitted"}
           toastDescription="Your changes are being saved."
         >
+          {templateId ? (
+            <input type="hidden" name="templateId" value={templateId} />
+          ) : null}
           <div className="grid gap-5 md:grid-cols-2">
             <div className="space-y-2 md:col-span-2">
               <Label htmlFor="title">Title</Label>
               <Input
                 id="title"
                 name="title"
-                defaultValue={goal?.title ?? ""}
+                defaultValue={goal?.title ?? defaults?.title ?? ""}
                 placeholder="Run a half marathon"
                 required
               />
@@ -71,7 +83,7 @@ export function GoalForm({
               <Textarea
                 id="description"
                 name="description"
-                defaultValue={goal?.description ?? ""}
+                defaultValue={goal?.description ?? defaults?.description ?? ""}
                 placeholder="Define the outcome, motivation, and constraints."
               />
             </div>
@@ -92,7 +104,7 @@ export function GoalForm({
               <Select
                 id="priority"
                 name="priority"
-                defaultValue={goal?.priority ?? "MEDIUM"}
+                defaultValue={goal?.priority ?? defaults?.priority ?? "MEDIUM"}
               >
                 {priorityOptions.map((priority) => (
                   <option key={priority.value} value={priority.value}>
@@ -123,7 +135,7 @@ export function GoalForm({
                 id="deadline"
                 name="deadline"
                 type="date"
-                defaultValue={dateInputValue(goal?.deadline)}
+                defaultValue={dateInputValue(goal?.deadline ?? defaults?.deadline)}
               />
             </div>
             <div className="space-y-2">
@@ -134,7 +146,7 @@ export function GoalForm({
                 type="number"
                 step="0.01"
                 min="0"
-                defaultValue={goal?.targetValue ?? ""}
+                defaultValue={goal?.targetValue ?? defaults?.targetValue ?? ""}
                 placeholder="100"
               />
             </div>
@@ -156,7 +168,7 @@ export function GoalForm({
               <Input
                 id="unit"
                 name="unit"
-                defaultValue={goal?.unit ?? ""}
+                defaultValue={goal?.unit ?? defaults?.unit ?? ""}
                 placeholder="km, pages, hours"
               />
             </div>

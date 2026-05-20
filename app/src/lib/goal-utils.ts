@@ -70,6 +70,22 @@ export function isOverdue(goal: Pick<Goal, "deadline" | "status">) {
   );
 }
 
+export function isDeadlineApproaching(goal: Pick<Goal, "deadline" | "status">) {
+  if (
+    !goal.deadline ||
+    goal.status === GoalStatus.COMPLETED ||
+    goal.status === GoalStatus.CANCELLED
+  ) {
+    return false;
+  }
+
+  const now = new Date();
+  const threeDaysFromNow = new Date(now);
+  threeDaysFromNow.setDate(threeDaysFromNow.getDate() + 3);
+
+  return goal.deadline >= now && goal.deadline <= threeDaysFromNow;
+}
+
 export function formatDate(date: Date | null | undefined) {
   if (!date) {
     return "No date";

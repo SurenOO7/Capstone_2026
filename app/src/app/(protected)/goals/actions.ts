@@ -6,6 +6,7 @@ import { redirect } from "next/navigation";
 import { GoalPriority, GoalStatus } from "@/generated/prisma/client";
 import { auth } from "@/lib/auth";
 import prisma from "@/lib/db";
+import { getGoalTemplate } from "@/lib/goal-templates";
 
 function getString(formData: FormData, key: string) {
   const value = formData.get(key);
@@ -93,6 +94,7 @@ function getGoalData(formData: FormData) {
 export async function createGoal(formData: FormData) {
   const userId = await requireUserId();
   const data = getGoalData(formData);
+  const template = getGoalTemplate(getString(formData, "templateId"));
 
   if (!data.title) {
     redirect("/goals/new?error=TitleRequired");
@@ -103,6 +105,14 @@ export async function createGoal(formData: FormData) {
       ...data,
       status: data.currentValue > 0 ? GoalStatus.IN_PROGRESS : GoalStatus.NOT_STARTED,
       userId,
+      milestones: template
+        ? {
+            create: template.milestones.map((title, order) => ({
+              title,
+              order,
+            })),
+          }
+        : undefined,
     },
     select: { id: true },
   });

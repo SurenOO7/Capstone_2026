@@ -1,4 +1,4 @@
-import { Plus, Search, Target } from "lucide-react";
+import { Download, Plus, Search, Target } from "lucide-react";
 import Link from "next/link";
 import { redirect } from "next/navigation";
 
@@ -114,13 +114,22 @@ export default async function GoalsPage({
             for milestones and progress history.
           </p>
         </div>
-        <Link
-          href="/goals/new"
-          className={cn(buttonVariants(), "shrink-0")}
-        >
-          <Plus aria-hidden="true" />
-          New goal
-        </Link>
+        <div className="flex flex-wrap gap-2">
+          <a
+            href="/api/export/goals"
+            className={cn(buttonVariants({ variant: "outline" }), "shrink-0")}
+          >
+            <Download aria-hidden="true" />
+            Export CSV
+          </a>
+          <Link
+            href="/goals/new"
+            className={cn(buttonVariants(), "shrink-0")}
+          >
+            <Plus aria-hidden="true" />
+            New goal
+          </Link>
+        </div>
       </div>
 
       <form

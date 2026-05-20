@@ -40,6 +40,7 @@ import {
   formatStatus,
   getCategoryStyle,
   getProgressPercent,
+  isDeadlineApproaching,
   isOverdue,
   statusOptions,
 } from "@/lib/goal-utils";
@@ -103,6 +104,9 @@ export default async function GoalDetailPage({
             <Badge variant={isOverdue(goal) ? "destructive" : "secondary"}>
               {isOverdue(goal) ? "Overdue" : formatStatus(goal.status)}
             </Badge>
+            {isDeadlineApproaching(goal) ? (
+              <Badge variant="outline">Deadline within 3 days</Badge>
+            ) : null}
             <Badge variant="outline">{formatPriority(goal.priority)}</Badge>
             {goal.category ? (
               <span

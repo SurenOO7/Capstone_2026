@@ -13,6 +13,7 @@ import {
   formatStatus,
   getCategoryStyle,
   getProgressPercent,
+  isDeadlineApproaching,
   isOverdue,
 } from "@/lib/goal-utils";
 
@@ -37,6 +38,9 @@ export function GoalCard({ goal }: Readonly<{ goal: GoalCardData }>) {
             <Badge variant={isOverdue(goal) ? "destructive" : "secondary"}>
               {isOverdue(goal) ? "Overdue" : formatStatus(goal.status)}
             </Badge>
+            {isDeadlineApproaching(goal) ? (
+              <Badge variant="outline">Due soon</Badge>
+            ) : null}
             <CardTitle className="line-clamp-2">
               <Link
                 href={`/goals/${goal.id}`}
