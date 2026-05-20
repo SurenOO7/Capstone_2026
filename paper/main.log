@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  20 MAY 2026 00:57
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  20 MAY 2026 04:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -128,6 +128,13 @@ T:script=armn;language=dflt;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->"[/Users/surenarzumanyan/Library/Fonts/sylfaen.ttf]/O
 T:script=armn;language=dflt;embolden=2.2;"
+
+
+Package fontspec Info: 
+(fontspec)             Script 'Armenian' not explicitly supported within font
+(fontspec)             'sylfaen'. Check the typeset output, and if it is okay
+(fontspec)             then ignore this warning. Otherwise a different font
+(fontspec)             should be chosen.
 
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
@@ -673,26 +680,26 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 618
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -700,59 +707,59 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 86.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 86.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 86.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 86.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 86.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 86.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 86.
-LaTeX Font Info:    Redeclaring math accent \check on input line 86.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 86.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 86.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 86.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 86.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 86.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 98.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 98.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 98.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 98.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 98.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 98.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 98.
+LaTeX Font Info:    Redeclaring math accent \check on input line 98.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 98.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 98.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 98.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 98.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 86.
+(Font)              `operators' in the math version `normal' on input line 98.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Sylfaen(0)/m/n on input line 86.
+(Font)                  OT1/cmr/m/n --> TU/Sylfaen(0)/m/n on input line 98.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 86.
+(Font)              `operators' in the math version `bold' on input line 98.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Sylfaen(0)/m/n on input line 86.
+(Font)                  OT1/cmr/bx/n --> TU/Sylfaen(0)/m/n on input line 98.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Sylfaen(0)/m/n --> TU/Sylfaen(0)/m/n on input line 8
-6.
+(Font)                  TU/Sylfaen(0)/m/n --> TU/Sylfaen(0)/m/n on input line 9
+8.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Sylfaen(0)/m/it on input line 86.
+(Font)                  OT1/cmr/m/it --> TU/Sylfaen(0)/m/it on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Sylfaen(0)/b/n on input line 86.
+(Font)                  OT1/cmr/bx/n --> TU/Sylfaen(0)/b/n on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 86.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 86.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 98.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Sylfaen(0)/m/n --> TU/Sylfaen(0)/b/n on input line 8
-6.
+(Font)                  TU/Sylfaen(0)/m/n --> TU/Sylfaen(0)/b/n on input line 9
+8.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Sylfaen(0)/b/it on input line 86.
+(Font)                  OT1/cmr/bx/it --> TU/Sylfaen(0)/b/it on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 86.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 86.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 98.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -837,7 +844,7 @@ Package biblatex Info: Trying to load language 'armenian'...
 Package biblatex Info: ... file 'armenian.lbx' not found.
 
 Package biblatex Warning: Language 'armenian' not supported.
-(biblatex)                Using dummy definitions on input line 86.
+(biblatex)                Using dummy definitions on input line 98.
 
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -848,9 +855,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 86.
-Package biblatex Info: Reference segment=0 on input line 86.
-Package hyperref Info: Link coloring OFF on input line 86.
+Package biblatex Info: Reference section=0 on input line 98.
+Package biblatex Info: Reference segment=0 on input line 98.
+Package hyperref Info: Link coloring OFF on input line 98.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1484,67 +1491,371 @@ Underfull \hbox (badness 1142) in paragraph at lines 144--145
 
 ) (./chapters/methods.tex [19]
 Գլուխ 3.
-) (./chapters/results.tex [20
+
+Underfull \hbox (badness 3872) in paragraph at lines 4--5
+\TU/Sylfaen(1)/m/n/12 Սույն աշխատանքի մեթոդաբանական հիմքը ձևավորվել է այնպես, ո
+ր տեսական
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 14--15
+\TU/Sylfaen(1)/m/n/12 Վեբ կայքի հիմքում ընտրվել է Next.js 15 App Router-ը, քանի
+ որ այն հնարավո-
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 16--17
+[]\TU/Sylfaen(1)/m/n/12 TypeScript-ը ընտրվել է տեսակի անվտանգության, IDE-ի ավել
+ի արդյունավետ
+ []
+
+[20
 
 ]
+Underfull \hbox (badness 2035) in paragraph at lines 18--19
+\TU/Sylfaen(1)/m/n/12 ների կառավարման համար ([]Prisma, []2026a[][], []2026b[])։
+ Auth.js v5-ը կիրառվել է OAuth
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 18--19
+\TU/Sylfaen(1)/m/n/12 2.0 տրամաբանությամբ մուտքի, JWT session-ների և credential
+s տարբերակի հա-
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 22--23
+\TU/Sylfaen(1)/m/n/12 Առաջին մեթոդը գրականության որակական վերլուծությունն էր։ Ա
+յն ներառում էր
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 24--25
+[]\TU/Sylfaen(1)/m/n/12 Երրորդ մեթոդը կիրառական կամ փորձարարական մշակումն էր։ Ա
+յս մեթոդով
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 24--25
+\TU/Sylfaen(1)/m/n/12 գնահատվել է ըստ այն բանի, թե որքանով է մշակված լուծումը հ
+ամապատասխա-
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 24--25
+\TU/Sylfaen(1)/m/n/12 ենթանպատակների կառավարում, առաջընթացի հետևում, վերլուծակա
+ն պատկեր և
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 26--27
+\TU/Sylfaen(1)/m/n/12 Docker Desktop-ը՝ PostgreSQL միջավայրի գործարկման համար, 
+Chrome DevTools-ը՝
+ []
+
+[21]) (./chapters/results.tex [22]
 Գլուխ 4.
-) (./chapters/conclusions.tex [21
+
+Underfull \hbox (badness 3895) in paragraph at lines 10--11
+\TU/Sylfaen(1)/m/n/12 համար, քանի որ անձնական նպատակների համակարգում տվյալների 
+մեծ մասը
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 10--11
+\TU/Sylfaen(1)/m/n/12 հարցումներով։ Next.js-ի server component-ներն ու server a
+ction-ները թույլ են տալիս
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 14--15
+\TU/Sylfaen(1)/m/n/12 է Google provider և email/password տարբերակը։ Auth.js-ի s
+ession ռազմավարությունը
+ []
+
+[23
 
 ]
+Underfull \hbox (badness 2443) in paragraph at lines 20--21
+\TU/Sylfaen(1)/m/n/12 Տվյալների բազայի նախագծման հիմքում դրվել է հարաբերական մո
+դելը։ ER սխե-
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 22--23
+[]\TU/Sylfaen(1)/m/n/12 User սուբյեկտը ներկայացնում է համակարգի օգտատիրոջը։ Այն
+ պարունակում է
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 26--27
+[]\TU/Sylfaen(1)/m/n/12 Goal սուբյեկտը պահում է նպատակի հիմնական տվյալները՝ վեր
+նագիր, նկա-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+\TU/Sylfaen(1)/m/n/12 րագրություն, առաջնահերթություն, վերջնաժամկետ, կարգավիճակ,
+ targetValue,
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 26--27
+\TU/Sylfaen(1)/m/n/12 Goal-ի համար սահմանված են ինդեքսներ userId, categoryId, s
+tatus, priority, deadline
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 26--27
+\TU/Sylfaen(1)/m/n/12 և createdAt դաշտերի վրա, քանի որ այդ դաշտերը օգտագործվում
+ են ցուցակների,
+ []
+
+[24]
+Underfull \hbox (badness 2351) in paragraph at lines 30--31
+[]\TU/Sylfaen(1)/m/n/12 ProgressLog սուբյեկտը պահում է առաջընթացի պատմությունը։
+ Այն ներառում է
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 32--33
+\TU/Sylfaen(1)/m/n/12 քանչյուր Goal և Category անմիջականորեն կապված է User-ի հե
+տ, իսկ Milestone և
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\TU/Sylfaen(1)/m/n/12 CRUD գործողությունների համար ընտրվել է server action մո
+տեցումը։ Այս
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 38--39
+\TU/Sylfaen(1)/m/n/12 ընտրությունը թույլ է տալիս mutation-ները պահել սերվերի կո
+ղմում և անմիջապես
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 38--39
+\TU/Sylfaen(1)/m/n/12 կապել Prisma հարցումների հետ։ Նպատակների ստեղծման, թարմաց
+ման, ջնջման,
+ []
+
+[25]
+Underfull \hbox (badness 3039) in paragraph at lines 44--45
+[]\TU/Sylfaen(1)/m/n/12 Առաջընթացի հետևումը իրականացվել է երկու մակարդակով։ Առա
+ջինը Goal-ի
+ []
+
+[26]
+Underfull \hbox (badness 1308) in paragraph at lines 48--49
+\TU/Sylfaen(1)/m/n/12 ը հաշվարկվում է ավարտված նպատակների և ընդհանուր նպատակներ
+ի հարաբե-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+[]\TU/Sylfaen(1)/m/n/12 Միջերեսում կիրառվել են loading skeleton-ներ, empty stat
+e-ներ, toast հա-
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 52--53
+\TU/Sylfaen(1)/m/n/12 ջականորեն չեն փոխում տվյալների մոդելը, սակայն բարձրացնում
+ են համակարգի
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 61.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\TU/Sylfaen(1)/m/n/8 Չափելի նպա-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]\TU/Sylfaen(1)/m/n/12 Աղյուսակ 4.1: []Մշակված հավելվածի և գործող գործիքների հ
+ամեմատական
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27]
+Underfull \hbox (badness 1325) in paragraph at lines 83--84
+\TU/Sylfaen(1)/m/n/12 Կատարողականի տեսանկյունից համակարգի հիմնական առավելությու
+նը server-side
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 83--84
+\TU/Sylfaen(1)/m/n/12 rendering-ի և server-side տվյալների նախապատրաստման կիրառո
+ւմն է։ Dashboard և
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 83--84
+\TU/Sylfaen(1)/m/n/12 արդյունքում client-ը ստանում է արդեն կառուցված էջ և գրաֆի
+կներին անհրաժեշտ
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 83--84
+\TU/Sylfaen(1)/m/n/12 տվյալների կառուցվածք։ Սա հատկապես կարևոր է protected էջեր
+ի համար, որտեղ
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 85--86
+\TU/Sylfaen(1)/m/n/12 է ownership ստուգում, որպեսզի օգտատերը չկարողանա փոխել ու
+րիշի տվյալները։
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 85--86
+\TU/Sylfaen(1)/m/n/12 Չորրորդ՝ credentials մուտքի գաղտնաբառերը պահվում են PBKDF
+2 hash-ի տեսքով,
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 87--88
+[]\TU/Sylfaen(1)/m/n/12 Responsive դիզայնը իրականացվել է Tailwind CSS-ի breakpo
+int-ների և grid կա-
+ []
+
+[28]
+Underfull \hbox (badness 1509) in paragraph at lines 91--92
+[]\TU/Sylfaen(1)/m/n/12 Տեղակայման տեսանկյունից Docker Compose-ը ապահովում է մի
+ջավայրի կրկնե-
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 95--96
+\TU/Sylfaen(1)/m/n/12 Setting Theory, OKR, UX, տվյալների բազայի և մատչելիության
+ սկզբունքներ, որոնք
+ []
+
+
+Underfull \hbox (badness 3179) in paragraph at lines 95--96
+\TU/Sylfaen(1)/m/n/12 անմիջապես արտացոլվեցին հավելվածի կառուցվածքում։ Երկրորդ խ
+նդիրը գործող
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 97--98
+\TU/Sylfaen(1)/m/n/12 գործման հարմարավետության, ֆունկցիոնալ ամբողջականության և 
+հիմնական պա-
+ []
+
+[29]
+Underfull \hbox (badness 1033) in paragraph at lines 101--102
+\TU/Sylfaen(1)/m/n/12 րը։ Սահմանափակումներից կարելի է նշել, որ համակարգը դեռ չո
+ւնի native mobile
+ []
+
+) (./chapters/conclusions.tex [30]
 Գլուխ 5.
-) [22
+) [31
 
 ]
 
 LaTeX Font Warning: Font shape `TU/Sylfaen(1)/m/it' undefined
-(Font)              using `TU/Sylfaen(1)/m/n' instead on input line 112.
+(Font)              using `TU/Sylfaen(1)/m/n' instead on input line 124.
 
 
-Overfull \hbox (11.27469pt too wide) in paragraph at lines 112--112
+Overfull \hbox (11.27469pt too wide) in paragraph at lines 124--124
 \TU/Sylfaen(1)/m/it/12 K., Sutherland, J., & Thomas, D. (2001). Manifesto for A
 gile Software Development. Retrieved
  []
 
 
-Overfull \hbox (13.72673pt too wide) in paragraph at lines 112--112
+Overfull \hbox (13.72673pt too wide) in paragraph at lines 124--124
 [][]\TU/Sylfaen(1)/m/it/12 Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2
 011). From Game Design Elements to Gamefulness:
  []
 
 
-Overfull \hbox (19.36597pt too wide) in paragraph at lines 112--112
+Overfull \hbox (19.36597pt too wide) in paragraph at lines 124--124
 \TU/Sylfaen(1)/m/it/12 Defining Gamification. Proceedings of the 15th Internati
 onal Academic MindTrek Conference,
  []
 
 
-Overfull \hbox (24.03537pt too wide) in paragraph at lines 112--112
+Overfull \hbox (24.03537pt too wide) in paragraph at lines 124--124
 \TU/Sylfaen(1)/m/it/12 D. C., & Chapman, R. A. (2024). The Goal Setting Challen
 ge App: Promoting Self-Determination
  []
 
-[23
+[32
 
 
 ]
-Overfull \hbox (16.01743pt too wide) in paragraph at lines 112--112
+Overfull \hbox (16.01743pt too wide) in paragraph at lines 124--124
 [][]\TU/Sylfaen(1)/m/it/12 PostgreSQL Global Development Group. (2026a). Postgr
 eSQL Documentation: Constraints. Retrieved
  []
 
 
-Overfull \hbox (20.80408pt too wide) in paragraph at lines 112--112
+Overfull \hbox (20.80408pt too wide) in paragraph at lines 124--124
 [][]\TU/Sylfaen(1)/m/it/12 Sailer, M., Hense, J. U., Mayr, S. K., & Mandl, H. (
 2017). How Gamification Motivates: An Experimental
  []
 
 
-Overfull \hbox (14.07002pt too wide) in paragraph at lines 112--112
+Overfull \hbox (14.07002pt too wide) in paragraph at lines 124--124
 [][]\TU/Sylfaen(1)/m/it/12 World Wide Web Consortium. (2024, December 12). Web 
 Content Accessibility Guidelines (WCAG)
  []
 
-[24] (./main.aux)
+(./appendices/app_screenshots.tex [33]
+File: figures/screenshots/login-page.png Graphic file (type bmp)
+<figures/screenshots/login-page.png>
+ [34
+
+
+]
+File: figures/screenshots/dashboard-page.png Graphic file (type bmp)
+<figures/screenshots/dashboard-page.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35]
+File: figures/screenshots/goals-page.png Graphic file (type bmp)
+<figures/screenshots/goals-page.png>
+ [36
+
+
+]
+File: figures/screenshots/goal-detail-page.png Graphic file (type bmp)
+<figures/screenshots/goal-detail-page.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]\TU/Sylfaen(1)/m/it/12 Նկար 5.4: []Նպատակի մանրամասների էջը՝ ենթանպատակներով,
+ առաջընթացի
+ []
+
+[37
+
+]
+File: figures/screenshots/analytics-page.png Graphic file (type bmp)
+<figures/screenshots/analytics-page.png>
+
+Underfull \hbox (badness 1259) in paragraph at lines 40--40
+[]\TU/Sylfaen(1)/m/it/12 Նկար 5.5: []Analytics էջը՝ completion rate-ի, streak ց
+ուցանիշների և կատեգորիաների
+ []
+
+[38
+
+]
+File: figures/screenshots/dashboard-mobile.png Graphic file (type bmp)
+<figures/screenshots/dashboard-mobile.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [39] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -1554,18 +1865,18 @@ L3 programming layer <2026-01-19>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9B9A580F8F7DDCACA1815A9E1B2E5086;5970.
+(rerunfilecheck)             Checksum: E8E1A06389F13585724F14634B8AC90A;9004.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21173 strings out of 468168
- 431264 string characters out of 5432815
- 1456637 words of memory out of 5000000
- 49672 multiletter control sequences out of 15000+600000
- 631893 words of font info for 73 fonts, out of 8000000 for 9000
+ 21273 strings out of 468168
+ 434575 string characters out of 5432815
+ 1456288 words of memory out of 5000000
+ 49757 multiletter control sequences out of 15000+600000
+ 631917 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,14n,93p,1734b,5619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (26 pages).
+Output written on main.pdf (41 pages).

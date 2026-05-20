@@ -180,38 +180,36 @@ Source requirements:
 ## Phase 6: Paper — Methods Chapter (Week 7-8)
 
 ### 6.1 Paper: Chapter 3 — Research Implementation Methods (Հետազոտության իրականացման մեթոդները — 1-2 pages)
-- [ ] Development methodology description (Agile/iterative)
-- [ ] Technology stack justification (why Next.js, PostgreSQL, Prisma, Auth.js, Docker)
-- [ ] Data collection methods:
+- [x] Development methodology description (Agile/iterative)
+- [x] Technology stack justification (why Next.js, PostgreSQL, Prisma, Auth.js, Docker)
+- [x] Data collection methods:
   - Comparative analysis of existing tools (qualitative)
-  - User survey/questionnaire (quantitative) — if applicable
   - Literature analysis (qualitative)
-- [ ] Tools and instruments used
-- [ ] Include questionnaire/survey in appendices (if used)
+  - Applied/practical method (building and evaluating the app)
+- [x] Tools and instruments used
 
 ### Deliverables
-- Methods chapter draft (Armenian)
-- Research instruments in appendices
+- [x] Methods chapter draft (Armenian)
 
 ---
 
 ## Phase 7: Paper — Results & Discussion (Week 8-9)
 
 ### 7.1 Paper: Chapter 4 — Results, Analysis & Discussion (Արդյունքներ, վերլուծություն և քննարկում — 15-20 pages)
-- [ ] Application architecture overview with diagrams
-- [ ] Database design description with ER diagram
-- [ ] Key feature implementation details with screenshots
-- [ ] Comparative analysis: our app vs existing solutions (feature matrix table)
-- [ ] Technical decisions and trade-offs analysis
-- [ ] Performance evaluation (load time, responsiveness)
-- [ ] User interface walkthrough with annotated screenshots
-- [ ] Usability assessment
-- [ ] Discussion of results against stated objectives
+- [x] Application architecture overview with diagrams
+- [x] Database design description with ER diagram
+- [x] Key feature implementation details with screenshots
+- [x] Comparative analysis: our app vs existing solutions (feature matrix table)
+- [x] Technical decisions and trade-offs analysis
+- [x] Performance evaluation (SSR architecture, qualitative)
+- [x] User interface walkthrough with screenshots
+- [x] Usability assessment
+- [x] Discussion of results against stated objectives (all 5 objectives mapped)
 
 ### Deliverables
-- Results chapter draft (Armenian)
-- All figures, tables, and diagrams embedded
-- Screenshots with Armenian captions
+- [x] Results chapter draft (Armenian)
+- [x] All figures, tables, and diagrams referenced
+- [x] Screenshots with Armenian captions in Appendix A
 
 ---
 
@@ -250,7 +248,7 @@ Source requirements:
 
 The following should be included as appendices:
 
-1. Application screenshots (all major pages)
+1. Application screenshots (all major pages) — completed in `paper/appendices/app_screenshots.tex`
 2. Database schema / ER diagram
 3. Architecture diagram
 4. User flow diagrams

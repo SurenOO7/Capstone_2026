@@ -12,8 +12,20 @@
 \setmainlanguage{armenian}
 \setotherlanguage{english}
 \addto\captionsarmenian{\renewcommand{\contentsname}{ԲՈՎԱՆԴԱԿՈՒԹՅՈՒՆ}}
+% Force Arabic numerals for all counters (polyglossia overrides to Armenian alphabet by default)
+\renewcommand{\thefigure}{\thechapter.\number\value{figure}}
+\renewcommand{\thetable}{\thechapter.\number\value{table}}
+\renewcommand{\theequation}{\thechapter.\number\value{equation}}
+\renewcommand{\thefootnote}{\number\value{footnote}}
 % Sylfaen supports Armenian Unicode but polyglossia needs explicit declaration
 \newfontfamily\armenianfont{Sylfaen}[
+  Script=Armenian,
+  Path=/Users/surenarzumanyan/Library/Fonts/,
+  Extension=.ttf,
+  UprightFont=sylfaen,
+  AutoFakeBold=2.2
+]
+\newfontfamily\armenianfonttt{Sylfaen}[
   Script=Armenian,
   Path=/Users/surenarzumanyan/Library/Fonts/,
   Extension=.ttf,
@@ -111,8 +123,7 @@
 \clearpage
 \printbibliography[title={ՕԳՏԱԳՈՐԾՎԱԾ ԳՐԱԿԱՆՈՒԹՅԱՆ ՑԱՆԿ}]
 
-% Appendices (uncomment as they are added)
-% \appendix
-% \input{appendices/app_a}
+% Appendices
+\input{appendices/app_screenshots}
 
 \end{document}

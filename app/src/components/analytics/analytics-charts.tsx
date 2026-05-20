@@ -51,7 +51,7 @@ export function AnalyticsCharts({
           {hasCompletionData ? (
             <div className="h-80">
               <ResponsiveContainer width="100%" height="100%">
-                <LineChart data={completionData} margin={{ left: -16, right: 16 }}>
+                <LineChart data={completionData} margin={{ left: 0, right: 16 }}>
                   <CartesianGrid strokeDasharray="3 3" vertical={false} />
                   <XAxis dataKey="label" tickLine={false} axisLine={false} />
                   <YAxis
