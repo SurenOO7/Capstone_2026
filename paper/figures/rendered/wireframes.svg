@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#4b5563"/>
+    </marker>
+    <style>
+      .panel { fill: #f8fafc; stroke: #94a3b8; stroke-width: 2; rx: 16; }
+      .box { fill: #ffffff; stroke: #64748b; stroke-width: 2; rx: 10; }
+      .title { font-family: Arial, sans-serif; font-size: 22px; font-weight: 700; fill: #0f172a; }
+      .label { font-family: Arial, sans-serif; font-size: 17px; fill: #111827; }
+      .small { font-family: Arial, sans-serif; font-size: 15px; fill: #111827; }
+      .arrow { stroke: #4b5563; stroke-width: 2.2; marker-end: url(#arrow); fill: none; }
+    </style>
+  </defs>
+
+  <rect x="30" y="30" width="270" height="500" class="panel"/>
+  <text x="165" y="72" text-anchor="middle" class="title">Planned key pages</text>
+  <rect x="65" y="105" width="200" height="44" class="box"/>
+  <text x="165" y="132" text-anchor="middle" class="small">/dashboard: statistics</text>
+  <rect x="65" y="175" width="200" height="44" class="box"/>
+  <text x="165" y="202" text-anchor="middle" class="small">/goals: list and filters</text>
+  <rect x="65" y="245" width="200" height="44" class="box"/>
+  <text x="165" y="272" text-anchor="middle" class="small">/goals/new: creation</text>
+  <rect x="65" y="315" width="200" height="44" class="box"/>
+  <text x="165" y="342" text-anchor="middle" class="small">/goals/[id]: details</text>
+  <rect x="65" y="385" width="200" height="44" class="box"/>
+  <text x="165" y="412" text-anchor="middle" class="small">/analytics: charts</text>
+  <rect x="65" y="455" width="200" height="44" class="box"/>
+  <text x="165" y="482" text-anchor="middle" class="small">/settings: account</text>
+
+  <rect x="335" y="30" width="410" height="500" class="panel"/>
+  <text x="540" y="72" text-anchor="middle" class="title">Mobile layout</text>
+  <rect x="415" y="115" width="250" height="48" class="box"/>
+  <text x="540" y="145" text-anchor="middle" class="label">Compact header</text>
+  <path d="M540 163 L540 194" class="arrow"/>
+  <rect x="400" y="198" width="280" height="48" class="box"/>
+  <text x="540" y="228" text-anchor="middle" class="label">Horizontal icon navigation</text>
+  <path d="M540 246 L540 277" class="arrow"/>
+  <rect x="415" y="281" width="250" height="48" class="box"/>
+  <text x="540" y="311" text-anchor="middle" class="label">Single-column content</text>
+  <path d="M540 329 L540 360" class="arrow"/>
+  <rect x="395" y="364" width="290" height="48" class="box"/>
+  <text x="540" y="394" text-anchor="middle" class="label">Forms and cards stack vertically</text>
+
+  <rect x="780" y="30" width="690" height="500" class="panel"/>
+  <text x="1125" y="72" text-anchor="middle" class="title">Desktop layout</text>
+  <rect x="835" y="125" width="235" height="48" class="box"/>
+  <text x="952.5" y="155" text-anchor="middle" class="label">Fixed sidebar navigation</text>
+  <rect x="1185" y="125" width="220" height="48" class="box"/>
+  <text x="1295" y="155" text-anchor="middle" class="label">Top bar</text>
+  <rect x="995" y="250" width="260" height="48" class="box"/>
+  <text x="1125" y="280" text-anchor="middle" class="label">Main content area</text>
+  <rect x="935" y="375" width="380" height="48" class="box"/>
+  <text x="1125" y="405" text-anchor="middle" class="label">Dashboard widgets / page-specific content</text>
+  <path d="M952.5 173 C965 225, 965 245, 995 268" class="arrow"/>
+  <path d="M1295 173 C1280 225, 1280 245, 1255 268" class="arrow"/>
+  <path d="M1125 298 L1125 372" class="arrow"/>
+</svg>

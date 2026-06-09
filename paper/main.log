@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  10 JUN 2026 01:50
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  10 JUN 2026 02:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1956,8 +1956,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ) (./appendices/design_artifacts.tex [49]
 File: figures/rendered/user-flow.pdf Graphic file (type pdf)
 <use figures/rendered/user-flow.pdf>
-File: figures/rendered/wireframes.pdf Graphic file (type pdf)
-<use figures/rendered/wireframes.pdf>
+File: figures/rendered/wireframes.png Graphic file (type bmp)
+<figures/rendered/wireframes.png>
 ) [50
 
 
@@ -1979,8 +1979,8 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  21336 strings out of 468168
- 436767 string characters out of 5432815
- 1457094 words of memory out of 5000000
+ 436751 string characters out of 5432815
+ 1457092 words of memory out of 5000000
  49809 multiletter control sequences out of 15000+600000
  631925 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
