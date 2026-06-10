@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  10 JUN 2026 02:26
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.10)  10 JUN 2026 09:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -162,6 +162,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
@@ -680,26 +683,26 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 618
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -707,59 +710,59 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 98.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 98.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 98.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 98.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 98.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 98.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 98.
-LaTeX Font Info:    Redeclaring math accent \check on input line 98.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 98.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 98.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 98.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 98.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 98.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 99.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 99.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 99.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 99.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 99.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 99.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 99.
+LaTeX Font Info:    Redeclaring math accent \check on input line 99.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 99.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 99.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 99.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 99.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 98.
+(Font)              `operators' in the math version `normal' on input line 99.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Sylfaen(0)/m/n on input line 98.
+(Font)                  OT1/cmr/m/n --> TU/Sylfaen(0)/m/n on input line 99.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 98.
+(Font)              `operators' in the math version `bold' on input line 99.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Sylfaen(0)/m/n on input line 98.
+(Font)                  OT1/cmr/bx/n --> TU/Sylfaen(0)/m/n on input line 99.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/Sylfaen(0)/m/n --> TU/Sylfaen(0)/m/n on input line 9
-8.
+9.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Sylfaen(0)/m/it on input line 98.
+(Font)                  OT1/cmr/m/it --> TU/Sylfaen(0)/m/it on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Sylfaen(0)/b/n on input line 98.
+(Font)                  OT1/cmr/bx/n --> TU/Sylfaen(0)/b/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 98.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 98.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 99.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/Sylfaen(0)/m/n --> TU/Sylfaen(0)/b/n on input line 9
-8.
+9.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Sylfaen(0)/b/it on input line 98.
+(Font)                  OT1/cmr/bx/it --> TU/Sylfaen(0)/b/it on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 98.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 98.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 99.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -844,7 +847,7 @@ Package biblatex Info: Trying to load language 'armenian'...
 Package biblatex Info: ... file 'armenian.lbx' not found.
 
 Package biblatex Warning: Language 'armenian' not supported.
-(biblatex)                Using dummy definitions on input line 98.
+(biblatex)                Using dummy definitions on input line 99.
 
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -855,9 +858,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 98.
-Package biblatex Info: Reference segment=0 on input line 98.
-Package hyperref Info: Link coloring OFF on input line 98.
+Package biblatex Info: Reference section=0 on input line 99.
+Package biblatex Info: Reference segment=0 on input line 99.
+Package hyperref Info: Link coloring OFF on input line 99.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1858,28 +1861,28 @@ Underfull \hbox (badness 1502) in paragraph at lines 24--25
 [39]) [40]
 
 LaTeX Font Warning: Font shape `TU/Sylfaen(1)/m/it' undefined
-(Font)              using `TU/Sylfaen(1)/m/n' instead on input line 124.
+(Font)              using `TU/Sylfaen(1)/m/n' instead on input line 125.
 
 
-Overfull \hbox (11.27469pt too wide) in paragraph at lines 124--124
+Overfull \hbox (11.27469pt too wide) in paragraph at lines 125--125
 \TU/Sylfaen(1)/m/it/12 K., Sutherland, J., & Thomas, D. (2001). Manifesto for A
 gile Software Development. Retrieved
  []
 
 
-Overfull \hbox (13.72673pt too wide) in paragraph at lines 124--124
+Overfull \hbox (13.72673pt too wide) in paragraph at lines 125--125
 [][]\TU/Sylfaen(1)/m/it/12 Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2
 011). From Game Design Elements to Gamefulness:
  []
 
 
-Overfull \hbox (19.36597pt too wide) in paragraph at lines 124--124
+Overfull \hbox (19.36597pt too wide) in paragraph at lines 125--125
 \TU/Sylfaen(1)/m/it/12 Defining Gamification. Proceedings of the 15th Internati
 onal Academic MindTrek Conference,
  []
 
 
-Overfull \hbox (24.03537pt too wide) in paragraph at lines 124--124
+Overfull \hbox (24.03537pt too wide) in paragraph at lines 125--125
 \TU/Sylfaen(1)/m/it/12 D. C., & Chapman, R. A. (2024). The Goal Setting Challen
 ge App: Promoting Self-Determination
  []
@@ -1888,19 +1891,19 @@ ge App: Promoting Self-Determination
 
 
 ]
-Overfull \hbox (16.01743pt too wide) in paragraph at lines 124--124
+Overfull \hbox (16.01743pt too wide) in paragraph at lines 125--125
 [][]\TU/Sylfaen(1)/m/it/12 PostgreSQL Global Development Group. (2026a). Postgr
 eSQL Documentation: Constraints. Retrieved
  []
 
 
-Overfull \hbox (20.80408pt too wide) in paragraph at lines 124--124
+Overfull \hbox (20.80408pt too wide) in paragraph at lines 125--125
 [][]\TU/Sylfaen(1)/m/it/12 Sailer, M., Hense, J. U., Mayr, S. K., & Mandl, H. (
 2017). How Gamification Motivates: An Experimental
  []
 
 [42]
-Overfull \hbox (14.07002pt too wide) in paragraph at lines 124--124
+Overfull \hbox (14.07002pt too wide) in paragraph at lines 125--125
 [][]\TU/Sylfaen(1)/m/it/12 World Wide Web Consortium. (2024, December 12). Web 
 Content Accessibility Guidelines (WCAG)
  []
@@ -1978,10 +1981,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21336 strings out of 468168
- 436751 string characters out of 5432815
- 1457092 words of memory out of 5000000
- 49809 multiletter control sequences out of 15000+600000
+ 21355 strings out of 468168
+ 437380 string characters out of 5432815
+ 1457226 words of memory out of 5000000
+ 49824 multiletter control sequences out of 15000+600000
  631925 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,12n,95p,1734b,5619s stack positions out of 10000i,1000n,20000p,200000b,200000s
